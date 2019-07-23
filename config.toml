@@ -1,0 +1,4 @@
+baseURL = "https://kondoumh.com/"
+languageCode = "ja-jp"
+title = "kondoumh HOME"
+theme = "ananke"
