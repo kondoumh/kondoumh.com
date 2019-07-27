@@ -9,3 +9,6 @@ born in Kyoto City 1968, living in Tokyo.
 
 エンタープライズシステムのアーキテクチャ構築・アプリケーションフレームワーク開発をやっています。
 
+- [Portfolio - Scrapbox](https://scrapbox.io/kondoumh/Portfolio)
+- [Gadget - Scarpbox](https://scrapbox.io/kondoumh/Gadget)
+- [Dev - Scarpbox](https://scrapbox.io/kondoumh/Dev)
