@@ -6,8 +6,8 @@ draft: true
 
 ## アイデアプロセッサー iEdit
 
-- [イントロダクション](software/iedit/)
-- ダウンロード
+- [イントロダクション](/software/iedit/)
+- [ダウンロード](/software/iedit/download)
 - ドキュメント
 - リリースノート
 - Blog [iEdit]
