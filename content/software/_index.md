@@ -5,24 +5,33 @@ draft: true
 ---
 
 ## iEdit
-
 アイデアプロセッサーです。Windows 専用ソフトウェアです。
 
 [詳細](iedit/)
 
-## もう保守していないソフトウェアたち
+## Scrapbox in Electron (sbe)
+Scrapbox の非公式デスクトップアプリです。
+
+https://github.com/kondoumh/sbe
+
+## ChangeLog support (Visual Studio Code Extention)
+ChangeLog の記述をサポートする Visual Studio Code 拡張です。
+
+https://marketplace.visualstudio.com/items?itemName=kondoumh.changelog-support
+
+## 超昔作ったモノたち
 
 ### iEdit for Silverlight
-iEdit for Silverlight は、Microsoft の RIA 技術である Silverlight にて実装した、iEdit のクローンです。Windows でも Mac でも動作する iEdit として開発を始めてみましたが、ある程度作ったところで忙しくなり数年放置。そのうちに Microsoft はどうやら Silverlight を見捨てる感じになってきちゃいました。
+iEdit for Silverlight は、Microsoft の RIA 技術である Silverlight で実装した iEdit クローンです。
 
-詳細
+[詳細](iedit_sl)
 
 ### 3D Plot (お手軽 3D プロッタ)
-3D Plotは、3次元データを3次元空間にプロットするだけのシンプルなツールです。データをプロットした空間をマウスやキーボードで回転させ、データをあらゆる視点から観察することが可能です。大量の観測データが得られた場合など、とにかくすぐにプロットしてみたいときにお手軽に試すことができます。
+3次元データを3次元空間にプロットするだけのシンプルなツールです。
 
-詳細
+[詳細](3dplot/)
 
 ### Before Codeing (UML エディタ)
-Rational Rose(Microsoft Visual Modeler)ライクな UML エディターです。クラス図の作成が楽にできます。クラス図からC++のスケルトンを生成したり、JavaやC++のソースコードを読み込んでクラス図を生成したりできます。
+Rational Rose ライクな UML エディターです。
 
-詳細
+[詳細](bc/)
