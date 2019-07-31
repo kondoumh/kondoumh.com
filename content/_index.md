@@ -7,11 +7,11 @@ draft: true
 ## アイデアプロセッサー iEdit
 
 - [イントロダクション](/software/iedit/)
-- [ダウンロード](/software/iedit/download)
-- ドキュメント
-- リリースノート
-- Blog [iEdit]
-- 関連ツール
+- [ダウンロード](/software/iedit/download/)
+- [ドキュメント](https://iedit.kondoumh.com)
+- [リリースノート](https://iedit.kondoumh.com/releasenotes/)
+- [Blog](https://blog.kondoumh.com/archive/category/iEdit)
+- [関連ツール](/software/iedit/tools/)
 
 ## その他ソフトウェア
 
@@ -19,7 +19,5 @@ draft: true
 
 ## お知らせ
 
-- サイトリニューアル (2019.xx.xx)
+- サイトリニューアル (2019.8.xx)
 - iEdit 2.40 リリース (2018.9.16)
-- サイトの構成変更 (2018.7.22)
-- サイトを HTTPS 対応 (2018.2.17)
