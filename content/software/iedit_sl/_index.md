@@ -12,7 +12,6 @@ iEdit for Silverlight は、Microsoft の RIA 技術である Silverlight にて
 - アウトオブブラウザーアプリケーションとしてデスクトップアプリケーションのように動作させることが可能です。
 - DirectX 9.0c 以降の DirectX が動作するビデオカードを搭載していれば、GPU Acceleration により描画されます
 
-https://github.com/kondoumh/iedit-silverlight
-
+<iframe class="hatenablogcard" style="width:100%;height:155px;max-width:600px;" title="kondoumh/iedit-silverlight" src="https://hatenablog-parts.com/embed?url=https://github.com/kondoumh/iedit-silverlight" width="300" height="150" frameborder="0" scrolling="no"></iframe>
 
 {{< youtube 1gs6TgO1S_4 >}}

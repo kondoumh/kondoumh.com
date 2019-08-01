@@ -36,6 +36,12 @@ VRML形式のファイルもデータ部分だけプロットできる場合が�
 
 ## スクリーンショット
 
+{{< figure src="/images/software/angle1.jpg" >}}
+
+{{< figure src="/images/software/angle2.jpg" >}}
+
+{{< figure src="/images/software/fog.jpg" >}}
+
 フォグ効果を使えば、データの遠近関係がわかりやすくなります。
 
 ## ThinkPadの加速度センサーによる操作

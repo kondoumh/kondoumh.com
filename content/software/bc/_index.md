@@ -12,6 +12,9 @@ Windows 95/NT 4.0/2000/XP で動かしたことがあります。
 Visual C++ 5.0J で作成しました。
 
 ## 機能
+
+{{< figure src="/images/software/bc.gif" >}}
+
 - クラスアイコンの作成
 - メンバの可視性 (public, private, protected) の設定
 - クラスアイコンの表示設定(詳細、簡易、メソッドの表示/非表示、プロパティの表示/非表示)
