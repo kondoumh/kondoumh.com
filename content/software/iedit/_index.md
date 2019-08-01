@@ -6,6 +6,12 @@ draft: true
 
 {{< figure src="/images/iedit/iedit_logo_icon.png" >}}
 
+- [ダウンロード](/software/iedit/download/)
+- [ドキュメント](https://iedit.kondoumh.com)
+- [リリースノート](https://iedit.kondoumh.com/releasenotes/)
+- [Blog](https://blog.kondoumh.com/archive/category/iEdit)
+- [関連ツール](/software/iedit/tools/)
+
 ## iEdit とは
 
 iEdit は、いわゆるアイデアプロセッサーの一種です。ラベルとテキストからなる「ノード」をアイデアを構成する１つの単位とします。iEdit ではツリー構造とネットワーク構造を用いてノードを組み合わせ、アイデアを練り上げていきます。アウトラインエディターとダイアグラムエディターが融合したものです。

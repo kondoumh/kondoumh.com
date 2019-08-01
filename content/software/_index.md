@@ -5,9 +5,10 @@ draft: true
 ---
 
 ## iEdit
-アイデアプロセッサーです。Windows 専用ソフトウェアです。
+Windows 専用のアイデアプロセッサーです。
 
-[詳細](iedit/)
+<iframe class="hatenablogcard" style="width:100%;height:155px;max-width:600px;" title="kondoumh/sbe" src="https://hatenablog-parts.com/embed?url=https://kondoumh.com/software/iedit/" width="300" height="150" frameborder="0" scrolling="no"></iframe>
+
 
 ## Scrapbox in Electron (sbe)
 Scrapbox の非公式デスクトップアプリです。
@@ -19,19 +20,15 @@ ChangeLog の記述をサポートする Visual Studio Code 拡張です。
 
 <iframe class="hatenablogcard" style="width:100%;height:155px;max-width:600px;" title="changelog-support" src="https://hatenablog-parts.com/embed?url=https://marketplace.visualstudio.com/items?itemName=kondoumh.changelog-support" width="300" height="150" frameborder="0" scrolling="no"></iframe>
 
-## 超昔作ったモノたち
+-----------
 
-### iEdit for Silverlight
-iEdit for Silverlight は、Microsoft の RIA 技術である Silverlight で実装した iEdit クローンです。
+## 昔作ったもの
 
-[詳細](iedit_sl)
+### [iEdit for Silverlight](iedit_sl/)
+Silverlight で実装した iEdit クローンです。
 
-### 3D Plot (お手軽 3D プロッタ)
-3次元データを3次元空間にプロットするだけのシンプルなツールです。
+### [3D Plot](3dplot/)
+シンプルなプロッターです。
 
-[詳細](3dplot/)
-
-### Before Codeing (UML エディタ)
-Rational Rose ライクな UML エディターです。
-
-[詳細](bc/)
+### [Before Codeing](bc/)
+UML エディターです。

@@ -16,11 +16,11 @@ born in Kyoto City 1968, living in Tokyo.
 
 <iframe class="hatenablogcard" style="width:100%;height:155px;max-width:600px;" title="blog" src="https://hatenablog-parts.com/embed?url=https://blog.kondoumh.com" width="300" height="150" frameborder="0" scrolling="no"></iframe>
 
-<iframe class="hatenablogcard" style="width:100%;height:155px;max-width:600px;" title="Portfolio - Scrapbox" src="https://hatenablog-parts.com/embed?url=https://scrapbox.io/kondoumh/Portfolio" width="300" height="150" frameborder="0" scrolling="no"></iframe>
+<iframe class="hatenablogcard" style="width:100%;height:155px;max-width:600px;" title="Twitter" src="https://hatenablog-parts.com/embed?url=https://twitter.com/kondoumh" width="300" height="150" frameborder="0" scrolling="no"></iframe>
 
-<iframe class="hatenablogcard" style="width:100%;height:155px;max-width:600px;" title="Gadget - Scrapbox" src="https://hatenablog-parts.com/embed?url=https://scrapbox.io/kondoumh/Gadget" width="300" height="150" frameborder="0" scrolling="no"></iframe>
+<iframe class="hatenablogcard" style="width:100%;height:155px;max-width:600px;" title="GitHub" src="https://hatenablog-parts.com/embed?url=https://github.com/kondoumh" width="300" height="150" frameborder="0" scrolling="no"></iframe>
 
-<iframe class="hatenablogcard" style="width:100%;height:155px;max-width:600px;" title="Dev - Scrapbox" src="https://hatenablog-parts.com/embed?url=https://scrapbox.io/kondoumh/Dev" width="300" height="150" frameborder="0" scrolling="no"></iframe>
+<iframe class="hatenablogcard" style="width:100%;height:155px;max-width:600px;" title="kondoumh - Scrapbox" src="https://hatenablog-parts.com/embed?url=https://scrapbox.io/kondoumh" width="300" height="150" frameborder="0" scrolling="no"></iframe>
 
 <iframe class="hatenablogcard" style="width:100%;height:155px;max-width:600px;" title="Tumblr" src="https://hatenablog-parts.com/embed?url=https://reblog.kondoumh.com/" width="300" height="150" frameborder="0" scrolling="no"></iframe>
 
