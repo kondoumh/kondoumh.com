@@ -10,8 +10,15 @@ draft: true
 
 アルバトロスさんの許諾を得て、同シェイプファイルを、iEdit の配布用バイナリーに同梱させていただいてます。
 
+{{< figure src="/images/iedit/iEditS2.png" >}}
+
 ## iEdit XML用スタイルシート(貝塚さん作)
 貝塚さんが開発された、iEditのXMLデータ用のスタイルシート(XSL)です。階層構造を反映したXMLファイルのスタイル付けをおこないます。リンクのFrom Toもちゃんと反映されていて素敵です(Internet Explorerではうまく表示されますが、Firefoxだと表示されませんでした)。iEditバージョン1.40でXML出力時のスタイルシートの指定とノードのレベル値の出力を可能とし、貝塚さんのXSLに対応しました。
+
+- [サンプル iEdit ファイル](sample.ied)
+- [生成されたスタイル付き XML](sample.xml)
+- [スタイルシート XSL](iedit.xsl)
+- [背景用画像](iEditBlue.gif)
 
 ## WZ2RTF(蒼月さん作)
 蒼月さんが開発された、WZ階層付テキストから章立て付RTFファイルを生成するツールです。iEditのエクスポート機能で出力されるtxt形式のファイルから章立てのRTFを作ってくれます。

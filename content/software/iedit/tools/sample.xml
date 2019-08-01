@@ -1,0 +1,1288 @@
+<?xml version="1.0" encoding="Shift_JIS"?>
+<?xml-stylesheet type="text/xsl" href="iedit.xsl" ?>
+<iEditDoc>
+	<inode>
+		<id>0</id>
+		<pid>0</pid>
+		<level>0</level>
+		<label><![CDATA[経営関係用語集]]></label>
+		<text><![CDATA[これは、スタイルシートのサンプルですので、文書の内容はあまり気にしないでください。
+(というか本気にしないでください。)]]>
+		</text>
+		<labelAlign>single-middle-center</labelAlign>
+		<shape>Rect</shape>
+		<bound>
+			<left>10</left>
+			<right>116</right>
+			<top>10</top>
+			<bottom>43</bottom>
+		</bound>
+		<nodeLine>
+			<nodeLineStyle>solidLine</nodeLineStyle>
+			<nodeLineWidth>1</nodeLineWidth>
+		</nodeLine>
+		<nodeLineColor>
+			<l_red>0</l_red>
+			<l_green>0</l_green>
+			<l_blue>0</l_blue>
+		</nodeLineColor>
+	</inode>
+	<inode>
+		<id>16</id>
+		<pid>0</pid>
+		<level>1</level>
+		<label><![CDATA[ROI（Return On Investment）]]></label>
+		<text><![CDATA[（Return On Investment）
+「投下資本利益率」「投資対効果」などと訳されます。
+企業の事業や資産、設備の収益性を測る指標として一般的なもので、投資に見合った利益を生んでいるかどうかを判断するための重要な指標である。情報システム投資に際しても、ROIが低い投資を行なわないよう心がける必要がある。]]>
+		</text>
+		<labelAlign>single-middle-center</labelAlign>
+		<shape>Rect</shape>
+		<bound>
+			<left>25</left>
+			<right>225</right>
+			<top>10</top>
+			<bottom>43</bottom>
+		</bound>
+		<nodeLine>
+			<nodeLineStyle>solidLine</nodeLineStyle>
+			<nodeLineWidth>1</nodeLineWidth>
+		</nodeLine>
+		<nodeLineColor>
+			<l_red>0</l_red>
+			<l_green>0</l_green>
+			<l_blue>0</l_blue>
+		</nodeLineColor>
+	</inode>
+	<inode>
+		<id>28</id>
+		<pid>0</pid>
+		<level>1</level>
+		<label><![CDATA[バランス・スコアカード（Balanced Score Card）]]></label>
+		<text><![CDATA[（Balanced Score Card）
+企業業績を定量的な財務業績のみでなく多面的に定義し、それらをバランスよくマネジメントしようとする経営管理手法。
+
+経営戦略を日常業務の具体策へ落とし込むため、また活動結果のモニタリング指標を策定するためにも使用します。経営戦略策定のフェーズにおいては「戦略マップ」を作成し、4つの視点それぞれの一貫性、因果関係を明らかにすることが重要です。
+
+バランス・スコアカード（BSC）は、1990年代初頭に米国ハーバード・ビジネススクールのロバート・S・カプラン教授と経営コンサルタントのデビッド・P・ノートンの両氏により開発された経営管理手法です。
+
+【4つのバランス】
+企業業績を4つの視点で幅広く定義し、それらのバランス（短期的な成果から中長期にわたる取り組みの成果）を保ちながら、企業の財務業績を中長期的に実現します。
+　(1)財務業績
+　(2)顧客
+　(3)内部プロセス
+　(4)従業員のスキル・学習面
+
+日本企業の場合は、すでに運用されている予算管理制度や目標管理制度と連動させつつ、戦略目標間の関連性に注目しながら、「成果＋プロセス評価」をより明確に再構築するケースが多く見られます。
+]]>
+		</text>
+		<labelAlign>single-middle-center</labelAlign>
+		<shape>Rect</shape>
+		<bound>
+			<left>25</left>
+			<right>351</right>
+			<top>153</top>
+			<bottom>186</bottom>
+		</bound>
+		<nodeLine>
+			<nodeLineStyle>solidLine</nodeLineStyle>
+			<nodeLineWidth>1</nodeLineWidth>
+		</nodeLine>
+		<nodeLineColor>
+			<l_red>0</l_red>
+			<l_green>0</l_green>
+			<l_blue>0</l_blue>
+		</nodeLineColor>
+	</inode>
+	<inode>
+		<id>29</id>
+		<pid>28</pid>
+		<level>2</level>
+		<label><![CDATA[財務業績]]></label>
+		<text><![CDATA[財務的に成功するために、株主に対してどのように行動すべきか]]>
+		</text>
+		<labelAlign>single-middle-center</labelAlign>
+		<shape>Rect</shape>
+		<bound>
+			<left>223</left>
+			<right>311</right>
+			<top>41</top>
+			<bottom>74</bottom>
+		</bound>
+		<nodeLine>
+			<nodeLineStyle>solidLine</nodeLineStyle>
+			<nodeLineWidth>1</nodeLineWidth>
+		</nodeLine>
+		<nodeLineColor>
+			<l_red>0</l_red>
+			<l_green>0</l_green>
+			<l_blue>0</l_blue>
+		</nodeLineColor>
+	</inode>
+	<inode>
+		<id>30</id>
+		<pid>28</pid>
+		<level>2</level>
+		<label><![CDATA[顧客]]></label>
+		<text><![CDATA[戦略を達成するために、顧客に対してどのように行動すべきか]]>
+		</text>
+		<labelAlign>single-middle-center</labelAlign>
+		<shape>Rect</shape>
+		<bound>
+			<left>74</left>
+			<right>163</right>
+			<top>133</top>
+			<bottom>166</bottom>
+		</bound>
+		<nodeLine>
+			<nodeLineStyle>solidLine</nodeLineStyle>
+			<nodeLineWidth>1</nodeLineWidth>
+		</nodeLine>
+		<nodeLineColor>
+			<l_red>0</l_red>
+			<l_green>0</l_green>
+			<l_blue>0</l_blue>
+		</nodeLineColor>
+	</inode>
+	<inode>
+		<id>31</id>
+		<pid>28</pid>
+		<level>2</level>
+		<label><![CDATA[従業員のスキル・学習面]]></label>
+		<text><![CDATA[戦略を達成するために、我々はどのようにして変化と改善の出来る能力を維持するか]]>
+		</text>
+		<labelAlign>single-middle-center</labelAlign>
+		<shape>Rect</shape>
+		<bound>
+			<left>185</left>
+			<right>356</right>
+			<top>224</top>
+			<bottom>259</bottom>
+		</bound>
+		<nodeLine>
+			<nodeLineStyle>solidLine</nodeLineStyle>
+			<nodeLineWidth>1</nodeLineWidth>
+		</nodeLine>
+		<nodeLineColor>
+			<l_red>0</l_red>
+			<l_green>0</l_green>
+			<l_blue>0</l_blue>
+		</nodeLineColor>
+	</inode>
+	<inode>
+		<id>32</id>
+		<pid>28</pid>
+		<level>2</level>
+		<label><![CDATA[内部プロセス（ビジネスプロセス）]]></label>
+		<text><![CDATA[株主と顧客を満足させるために、どのようなビジネス・プロセスに秀でるべきか]]>
+		</text>
+		<labelAlign>single-middle-center</labelAlign>
+		<shape>Rect</shape>
+		<bound>
+			<left>367</left>
+			<right>603</right>
+			<top>132</top>
+			<bottom>165</bottom>
+		</bound>
+		<nodeLine>
+			<nodeLineStyle>solidLine</nodeLineStyle>
+			<nodeLineWidth>1</nodeLineWidth>
+		</nodeLine>
+		<nodeLineColor>
+			<l_red>0</l_red>
+			<l_green>0</l_green>
+			<l_blue>0</l_blue>
+		</nodeLineColor>
+	</inode>
+	<inode>
+		<id>37</id>
+		<pid>28</pid>
+		<level>2</level>
+		<label><![CDATA[各業績の視点]]></label>
+		<text><![CDATA[]]>
+		</text>
+		<labelAlign>single-middle-center</labelAlign>
+		<shape>Rect</shape>
+		<bound>
+			<left>189</left>
+			<right>313</right>
+			<top>305</top>
+			<bottom>338</bottom>
+		</bound>
+		<nodeLine>
+			<nodeLineStyle>solidLine</nodeLineStyle>
+			<nodeLineWidth>1</nodeLineWidth>
+		</nodeLine>
+		<nodeLineColor>
+			<l_red>0</l_red>
+			<l_green>0</l_green>
+			<l_blue>0</l_blue>
+		</nodeLineColor>
+	</inode>
+	<inode>
+		<id>33</id>
+		<pid>28</pid>
+		<level>2</level>
+		<label><![CDATA[目標]]></label>
+		<text><![CDATA[]]>
+		</text>
+		<labelAlign>single-middle-center</labelAlign>
+		<shape>Rect</shape>
+		<bound>
+			<left>113</left>
+			<right>167</right>
+			<top>365</top>
+			<bottom>398</bottom>
+		</bound>
+		<nodeLine>
+			<nodeLineStyle>solidLine</nodeLineStyle>
+			<nodeLineWidth>1</nodeLineWidth>
+		</nodeLine>
+		<nodeLineColor>
+			<l_red>0</l_red>
+			<l_green>0</l_green>
+			<l_blue>0</l_blue>
+		</nodeLineColor>
+	</inode>
+	<inode>
+		<id>34</id>
+		<pid>28</pid>
+		<level>2</level>
+		<label><![CDATA[指標]]></label>
+		<text><![CDATA[]]>
+		</text>
+		<labelAlign>single-middle-center</labelAlign>
+		<shape>Rect</shape>
+		<bound>
+			<left>194</left>
+			<right>248</right>
+			<top>366</top>
+			<bottom>399</bottom>
+		</bound>
+		<nodeLine>
+			<nodeLineStyle>solidLine</nodeLineStyle>
+			<nodeLineWidth>1</nodeLineWidth>
+		</nodeLine>
+		<nodeLineColor>
+			<l_red>0</l_red>
+			<l_green>0</l_green>
+			<l_blue>0</l_blue>
+		</nodeLineColor>
+	</inode>
+	<inode>
+		<id>35</id>
+		<pid>28</pid>
+		<level>2</level>
+		<label><![CDATA[ターゲット]]></label>
+		<text><![CDATA[]]>
+		</text>
+		<labelAlign>single-middle-center</labelAlign>
+		<shape>Rect</shape>
+		<bound>
+			<left>270</left>
+			<right>375</right>
+			<top>366</top>
+			<bottom>399</bottom>
+		</bound>
+		<nodeLine>
+			<nodeLineStyle>solidLine</nodeLineStyle>
+			<nodeLineWidth>1</nodeLineWidth>
+		</nodeLine>
+		<nodeLineColor>
+			<l_red>0</l_red>
+			<l_green>0</l_green>
+			<l_blue>0</l_blue>
+		</nodeLineColor>
+	</inode>
+	<inode>
+		<id>36</id>
+		<pid>28</pid>
+		<level>2</level>
+		<label><![CDATA[施策]]></label>
+		<text><![CDATA[]]>
+		</text>
+		<labelAlign>single-middle-center</labelAlign>
+		<shape>Rect</shape>
+		<bound>
+			<left>395</left>
+			<right>448</right>
+			<top>366</top>
+			<bottom>399</bottom>
+		</bound>
+		<nodeLine>
+			<nodeLineStyle>solidLine</nodeLineStyle>
+			<nodeLineWidth>1</nodeLineWidth>
+		</nodeLine>
+		<nodeLineColor>
+			<l_red>0</l_red>
+			<l_green>0</l_green>
+			<l_blue>0</l_blue>
+		</nodeLineColor>
+	</inode>
+	<inode>
+		<id>38</id>
+		<pid>0</pid>
+		<level>1</level>
+		<label><![CDATA[コア・コンピタンス（Core Competence）]]></label>
+		<text><![CDATA[（Core Competence）
+争優位の源泉は成功を生み出す能力であり、他社に真似できない核となる能力である。
+
+コア・コンピタンスとは、G・ハメルとC・K・プラハラードの著書『コア・コンピタンス経営』（日本経済新聞社）によって広められた概念で、他社に真似できない核となる能力のことです。この著書では、「顧客に特定の利益を与える一連のスキルや技術」と説明されています。
+
+【過剰な現実主義の危険性】
+1980年代まで戦略仮説の分析は、利益至上主義の下で行われる事業のリストラクチャリングや簡便な分析ツールの活用が主流でした。しかし、過去のデータや現在の業績に注目しているだけでは、未来における競争優位の確立を十分に議論できないことが懸念されます。現実主義に陥りすぎると、目に見える範囲に限定された製品の市場シェアや利益など、現業そのものに対する分析に偏ってしまいます。
+
+【未来への挑戦が成功の原動力】
+コア・コンピタンスの考えは、このような問題点を解消するものです。
+不連続に変化する未来において強い競争力を保ち続けるためには、コア・コンピタンスを全社的に認識し、その強みから成果を生み出す取り組みが大切になります。精緻な分析を行い、綿密な計画を立てることよりも、立案された計画を全社員が正しく理解し、情熱と知的エネルギーを持って未来に挑戦することのほうが成功を生み出す原動力となります。核となる能力を磨き上げるために組織全体で学習を繰り返すことで、環境変化にも柔軟かつ大胆に対応できるのです。
+コア・コンピタンスという自社固有の経営資源を明らかにすれば、その資源を梃子（レバレッジ）にして幹となる事業を展開することや現状を前提としないストレッチ目標への見通しを立てることも容易になるでしょう。
+]]>
+		</text>
+		<labelAlign>single-middle-center</labelAlign>
+		<shape>Rect</shape>
+		<bound>
+			<left>25</left>
+			<right>303</right>
+			<top>200</top>
+			<bottom>233</bottom>
+		</bound>
+		<nodeLine>
+			<nodeLineStyle>solidLine</nodeLineStyle>
+			<nodeLineWidth>1</nodeLineWidth>
+		</nodeLine>
+		<nodeLineColor>
+			<l_red>0</l_red>
+			<l_green>0</l_green>
+			<l_blue>0</l_blue>
+		</nodeLineColor>
+	</inode>
+	<inode>
+		<id>40</id>
+		<pid>38</pid>
+		<level>2</level>
+		<label><![CDATA[戦略分析の対象]]></label>
+		<text><![CDATA[]]>
+		</text>
+		<labelAlign>single-middle-center</labelAlign>
+		<shape>Rect</shape>
+		<bound>
+			<left>42</left>
+			<right>182</right>
+			<top>29</top>
+			<bottom>63</bottom>
+		</bound>
+		<nodeLine>
+			<nodeLineStyle>solidLine</nodeLineStyle>
+			<nodeLineWidth>1</nodeLineWidth>
+		</nodeLine>
+		<nodeLineColor>
+			<l_red>0</l_red>
+			<l_green>0</l_green>
+			<l_blue>0</l_blue>
+		</nodeLineColor>
+	</inode>
+	<inode>
+		<id>41</id>
+		<pid>38</pid>
+		<level>2</level>
+		<label><![CDATA[目に見える]]></label>
+		<text><![CDATA[]]>
+		</text>
+		<labelAlign>single-middle-center</labelAlign>
+		<shape>Rect</shape>
+		<bound>
+			<left>68</left>
+			<right>174</right>
+			<top>79</top>
+			<bottom>111</bottom>
+		</bound>
+		<nodeLine>
+			<nodeLineStyle>solidLine</nodeLineStyle>
+			<nodeLineWidth>1</nodeLineWidth>
+		</nodeLine>
+		<nodeLineColor>
+			<l_red>0</l_red>
+			<l_green>0</l_green>
+			<l_blue>0</l_blue>
+		</nodeLineColor>
+	</inode>
+	<inode>
+		<id>43</id>
+		<pid>38</pid>
+		<level>2</level>
+		<label><![CDATA[成果・製品]]></label>
+		<text><![CDATA[事業そのものに対する分析]]>
+		</text>
+		<labelAlign>single-middle-center</labelAlign>
+		<shape>Rect</shape>
+		<bound>
+			<left>69</left>
+			<right>175</right>
+			<top>149</top>
+			<bottom>182</bottom>
+		</bound>
+		<nodeLine>
+			<nodeLineStyle>solidLine</nodeLineStyle>
+			<nodeLineWidth>1</nodeLineWidth>
+		</nodeLine>
+		<nodeLineColor>
+			<l_red>0</l_red>
+			<l_green>0</l_green>
+			<l_blue>0</l_blue>
+		</nodeLineColor>
+	</inode>
+	<inode>
+		<id>44</id>
+		<pid>38</pid>
+		<level>2</level>
+		<label><![CDATA[戦略立案・遂行能力]]></label>
+		<text><![CDATA[]]>
+		</text>
+		<labelAlign>single-middle-center</labelAlign>
+		<shape>Rect</shape>
+		<bound>
+			<left>54</left>
+			<right>189</right>
+			<top>195</top>
+			<bottom>228</bottom>
+		</bound>
+		<nodeLine>
+			<nodeLineStyle>solidLine</nodeLineStyle>
+			<nodeLineWidth>1</nodeLineWidth>
+		</nodeLine>
+		<nodeLineColor>
+			<l_red>0</l_red>
+			<l_green>0</l_green>
+			<l_blue>0</l_blue>
+		</nodeLineColor>
+	</inode>
+	<inode>
+		<id>45</id>
+		<pid>38</pid>
+		<level>2</level>
+		<label><![CDATA[組織学習]]></label>
+		<text><![CDATA[コア･コンピタンスに対する考察]]>
+		</text>
+		<labelAlign>single-middle-center</labelAlign>
+		<shape>Rect</shape>
+		<bound>
+			<left>56</left>
+			<right>191</right>
+			<top>242</top>
+			<bottom>275</bottom>
+		</bound>
+		<nodeLine>
+			<nodeLineStyle>solidLine</nodeLineStyle>
+			<nodeLineWidth>1</nodeLineWidth>
+		</nodeLine>
+		<nodeLineColor>
+			<l_red>0</l_red>
+			<l_green>0</l_green>
+			<l_blue>0</l_blue>
+		</nodeLineColor>
+	</inode>
+	<inode>
+		<id>42</id>
+		<pid>38</pid>
+		<level>2</level>
+		<label><![CDATA[目に見えない]]></label>
+		<text><![CDATA[]]>
+		</text>
+		<labelAlign>single-middle-center</labelAlign>
+		<shape>Rect</shape>
+		<bound>
+			<left>71</left>
+			<right>176</right>
+			<top>332</top>
+			<bottom>366</bottom>
+		</bound>
+		<nodeLine>
+			<nodeLineStyle>solidLine</nodeLineStyle>
+			<nodeLineWidth>1</nodeLineWidth>
+		</nodeLine>
+		<nodeLineColor>
+			<l_red>0</l_red>
+			<l_green>0</l_green>
+			<l_blue>0</l_blue>
+		</nodeLineColor>
+	</inode>
+	<inode>
+		<id>46</id>
+		<pid>0</pid>
+		<level>1</level>
+		<label><![CDATA[コスト・リーダーシップ（Cost Leadership）]]></label>
+		<text><![CDATA[（Cost Leadership）
+競合他社より低いコストを実現することで、より優位な立場を獲得している状態、あるいはそのための戦略。
+
+コスト・リーダーシップは、競争の基本戦略の1つで、ハーバード・ビジネススクールのマイケル・E・ポーター教授が提唱したものです。競合他社よりも低コストを実現することで、競争の優位性を獲得する状態、またはそのための戦略をコスト・リーダーシップといいます。ここでいうコストは、原材料調達から生産、流通、販売に至るまでのすべてのコストを含みます。
+
+【規模の経済と経験曲線】
+価格競争の場合、低コストが実現されると、ライバルよりも商品やサービスを低価格で提供でき、より大きなシェアを獲得することが可能です。あるいは同一価格で同じ製品やサービスを提供するのであれば、より大きな利益を得ることができます。
+コストを下げる手段として、規模の経済の追求と経験曲線の理論があります。例えばメーカーなら、大量生産によって設備投資等の固定費が低減でき、経験効果によって労働力や工程の効率化が上がり、単位あたりのコスト削減が実現できるのです。
+価格破壊の波に乗る日本マクドナルドは、規模の経済と経験曲線を活用し、原材料調達、生産、流通、販売等すべてのコストを下げて、ファーストフード界のコスト・リーダーシップを実現しています。
+
+【低価格が差別化戦略】
+一般的には、差別化戦略を目指すとコストがかかり、コスト・リーダーシップを追求していくと製品の標準化や経費削減等で差別化が図りにくくなるように、コスト・リーダーシップと差別化戦略を同時に達成することは難しいといわれています。
+しかし、日本マクドナルドのように、コスト・リーダーシップ自体が、他には真似できない差別化戦略になっているところもあります。過去からの蓄積により実現した規模やノウハウが他には真似できないため、マクドナルド以上のコスト削減を実現することは競合他社には難しいのです。また最近では、ユニクロ（ファーストリテイリング）のように、原材料や人件費等の生産コストを抑えて低価格を実現するとともに商品の高品質化を図ることで、競合他社には真似のしにくい差別化を実現している企業もあります。
+]]>
+		</text>
+		<labelAlign>single-middle-center</labelAlign>
+		<shape>Rect</shape>
+		<bound>
+			<left>25</left>
+			<right>325</right>
+			<top>248</top>
+			<bottom>281</bottom>
+		</bound>
+		<nodeLine>
+			<nodeLineStyle>solidLine</nodeLineStyle>
+			<nodeLineWidth>1</nodeLineWidth>
+		</nodeLine>
+		<nodeLineColor>
+			<l_red>0</l_red>
+			<l_green>0</l_green>
+			<l_blue>0</l_blue>
+		</nodeLineColor>
+	</inode>
+	<inode>
+		<id>50</id>
+		<pid>0</pid>
+		<level>1</level>
+		<label><![CDATA[VBM（価値創造経営：Value Based Management）]]></label>
+		<text><![CDATA[（VBM：Value Based Management）
+資本市場を意識した上で、企業活動のすべてを、企業価値向上へ向けた取り組みに整合させることが求められる。
+
+VBMは、日本語で価値創造経営と訳されますが、本来の意味としては「価値基準の経営管理」とするほうがより正確です。価値基準としては、米国スターン・スチュワート社が開発したEVA（経済付加価値）が注目を集めています。
+経営管理の指標はEVAに限らず、キャッシュフローや、ROEなど、様々なバリエーションがありえます。重要なのは、各社が決めた経営指標を恒常的に改善させるべく、企業活動のすべてが整合されている、ということです。
+
+【社内資本市場のアプローチ】
+VBMを推進する効果的な方法としては、社外資本市場と同様に社内資本市場を構築するアプローチがあります。例えば、カンパニー制の組織体制を敷き、社内資本金を設定するといった方法です。
+この場合、本社はカンパニーにとって資本（投資）家であり、カンパニー長はその資本を最大限に活用し、投資家の期待収益率を上回るリターンを創出しようとします。その結果、全社が目指す価値が向上するというメカニズムが働きます。
+社内資本市場におけるガバナンスを一層強化するためには、カンパニー長が担当しているカンパニーの業績向上に強烈なインセンティブを持たせることも効果的です。
+
+【カンパニーと全社のバランス】
+例えば、カンパニー長の報酬のうち業績連動部分を大きくすることにより、メリハリの利いた報酬体系を実現できます。分権型で多角化型の経営を目指すのであれば、カンパニー長の報酬は担当カンパニーのみの業績連動にし、集権型の経営モデルならば、担当カンパニーの業績連動部分に加えて、全社（コーポレート）の業績連動部分を設けることにより、カンパニーと全社にとって最適な行動をとることができます。
+]]>
+		</text>
+		<labelAlign>single-middle-center</labelAlign>
+		<shape>Rect</shape>
+		<bound>
+			<left>26</left>
+			<right>329</right>
+			<top>289</top>
+			<bottom>321</bottom>
+		</bound>
+		<nodeLine>
+			<nodeLineStyle>solidLine</nodeLineStyle>
+			<nodeLineWidth>1</nodeLineWidth>
+		</nodeLine>
+		<nodeLineColor>
+			<l_red>0</l_red>
+			<l_green>0</l_green>
+			<l_blue>0</l_blue>
+		</nodeLineColor>
+	</inode>
+	<inode>
+		<id>11</id>
+		<pid>0</pid>
+		<level>1</level>
+		<label><![CDATA[SWOT分析（SWOT Analysis）]]></label>
+		<text><![CDATA[（SWOT Analysis）
+経営戦略の立案を支援するための基本的な分析フレームワークとして活用されている。
+SWOT分析とは、
+　企業内部
+　　強み（Strengths）
+　　弱み（Weaknesses）
+　企業を取り巻く環境における
+　　機会（Opportunities）
+　　脅威（Threats）
+を記述することにより、戦略の構築及び評価を行うフレームワークです。
+
+【共通のフレームワーク】
+企業が市場での競争に勝ち残るためには、自社の状況を適切に把握して、競合他社との比較において優位に立てる戦略を打ち出す必要があります。ここで、企業が自社の目指す姿を経営理念として構築し、どのような市場でビジネスを推進するか、事業領域を明確に定義したと仮定します。その企業の経営企画部や各事業部門が、事業領域でどのような戦略を実行すべきかを検討する時に、共通の分析枠組みとしてSWOTを活用しながら議論を行えば、分析結果を各部門が理解しやすい形にまとめることができます。SWOTは多くの企業で認知、活用されているため、共通のフレームワークとして機能しやすいといえます。
+ただし、SWOT分析を行えば必ず戦略の構築と代替案の評価が完成するとは限りません。SWOTとは異なる切り口で戦略を検討することにより、適切な分析を実施している場合も数多くあります。
+
+【プロセスの分析には不向き】
+例えば、食品メーカーA社が新しいインスタント食品を市場に投入する時にSWOTを用いることによって、自社の「強み」を技術力やマーケティング力、「弱み」を製造コストの高さと認識し、「機会」を新たな市場の創造・開拓による先行者利益の獲得、「脅威」を類似商品の出現やファーストフードの低価格戦略と捉えたとします。しかし、SWOTだけでは、原料調達から顧客に消費されるまでのプロセスにおいて最も利益を稼ぐことができる部分がどこか、また、A社はどの事業プロセスに注目して事業を展開すべきかについての示唆を直接的には得られません。
+SWOT分析は、あくまでも分析ツールの1つとして活用し、必要に応じてバリューチェーン分析やファイブ・フォース分析など他の分析フレームワークを活用することが、適切な戦略立案には必要です。]]>
+		</text>
+		<labelAlign>single-middle-center</labelAlign>
+		<shape>Rect</shape>
+		<bound>
+			<left>25</left>
+			<right>210</right>
+			<top>58</top>
+			<bottom>91</bottom>
+		</bound>
+		<nodeLine>
+			<nodeLineStyle>solidLine</nodeLineStyle>
+			<nodeLineWidth>1</nodeLineWidth>
+		</nodeLine>
+		<nodeLineColor>
+			<l_red>0</l_red>
+			<l_green>0</l_green>
+			<l_blue>0</l_blue>
+		</nodeLineColor>
+	</inode>
+	<inode>
+		<id>79</id>
+		<pid>11</pid>
+		<level>2</level>
+		<label><![CDATA[強み（Strengths）]]></label>
+		<text><![CDATA[]]>
+		</text>
+		<labelAlign>single-middle-center</labelAlign>
+		<shape>Rect</shape>
+		<bound>
+			<left>12</left>
+			<right>160</right>
+			<top>119</top>
+			<bottom>195</bottom>
+		</bound>
+		<nodeLine>
+			<nodeLineStyle>solidLine</nodeLineStyle>
+			<nodeLineWidth>1</nodeLineWidth>
+		</nodeLine>
+		<nodeLineColor>
+			<l_red>0</l_red>
+			<l_green>0</l_green>
+			<l_blue>0</l_blue>
+		</nodeLineColor>
+	</inode>
+	<inode>
+		<id>80</id>
+		<pid>11</pid>
+		<level>2</level>
+		<label><![CDATA[弱み（Weaknesses）]]></label>
+		<text><![CDATA[]]>
+		</text>
+		<labelAlign>single-middle-center</labelAlign>
+		<shape>Rect</shape>
+		<bound>
+			<left>12</left>
+			<right>160</right>
+			<top>195</top>
+			<bottom>273</bottom>
+		</bound>
+		<nodeLine>
+			<nodeLineStyle>solidLine</nodeLineStyle>
+			<nodeLineWidth>1</nodeLineWidth>
+		</nodeLine>
+		<nodeLineColor>
+			<l_red>0</l_red>
+			<l_green>0</l_green>
+			<l_blue>0</l_blue>
+		</nodeLineColor>
+	</inode>
+	<inode>
+		<id>81</id>
+		<pid>11</pid>
+		<level>2</level>
+		<label><![CDATA[機会（Opportunities）]]></label>
+		<text><![CDATA[]]>
+		</text>
+		<labelAlign>single-middle-center</labelAlign>
+		<shape>Rect</shape>
+		<bound>
+			<left>160</left>
+			<right>320</right>
+			<top>43</top>
+			<bottom>119</bottom>
+		</bound>
+		<nodeLine>
+			<nodeLineStyle>solidLine</nodeLineStyle>
+			<nodeLineWidth>1</nodeLineWidth>
+		</nodeLine>
+		<nodeLineColor>
+			<l_red>0</l_red>
+			<l_green>0</l_green>
+			<l_blue>0</l_blue>
+		</nodeLineColor>
+	</inode>
+	<inode>
+		<id>82</id>
+		<pid>11</pid>
+		<level>2</level>
+		<label><![CDATA[脅威（Threats）]]></label>
+		<text><![CDATA[]]>
+		</text>
+		<labelAlign>single-middle-center</labelAlign>
+		<shape>Rect</shape>
+		<bound>
+			<left>320</left>
+			<right>480</right>
+			<top>43</top>
+			<bottom>119</bottom>
+		</bound>
+		<nodeLine>
+			<nodeLineStyle>solidLine</nodeLineStyle>
+			<nodeLineWidth>1</nodeLineWidth>
+		</nodeLine>
+		<nodeLineColor>
+			<l_red>0</l_red>
+			<l_green>0</l_green>
+			<l_blue>0</l_blue>
+		</nodeLineColor>
+	</inode>
+	<inode>
+		<id>83</id>
+		<pid>11</pid>
+		<level>2</level>
+		<label><![CDATA[機会/強み]]></label>
+		<text><![CDATA[]]>
+		</text>
+		<labelAlign>single-middle-center</labelAlign>
+		<shape>Rect</shape>
+		<bound>
+			<left>162</left>
+			<right>317</right>
+			<top>122</top>
+			<bottom>194</bottom>
+		</bound>
+		<nodeLine>
+			<nodeLineStyle>dotedLine</nodeLineStyle>
+		</nodeLine>
+		<nodeLineColor>
+			<l_red>0</l_red>
+			<l_green>0</l_green>
+			<l_blue>0</l_blue>
+		</nodeLineColor>
+	</inode>
+	<inode>
+		<id>85</id>
+		<pid>11</pid>
+		<level>2</level>
+		<label><![CDATA[脅威/強み]]></label>
+		<text><![CDATA[]]>
+		</text>
+		<labelAlign>single-middle-center</labelAlign>
+		<shape>Rect</shape>
+		<bound>
+			<left>322</left>
+			<right>477</right>
+			<top>122</top>
+			<bottom>193</bottom>
+		</bound>
+		<nodeLine>
+			<nodeLineStyle>dotedLine</nodeLineStyle>
+		</nodeLine>
+		<nodeLineColor>
+			<l_red>0</l_red>
+			<l_green>0</l_green>
+			<l_blue>0</l_blue>
+		</nodeLineColor>
+	</inode>
+	<inode>
+		<id>86</id>
+		<pid>11</pid>
+		<level>2</level>
+		<label><![CDATA[脅威/弱み]]></label>
+		<text><![CDATA[]]>
+		</text>
+		<labelAlign>single-middle-center</labelAlign>
+		<shape>Rect</shape>
+		<bound>
+			<left>323</left>
+			<right>478</right>
+			<top>201</top>
+			<bottom>272</bottom>
+		</bound>
+		<nodeLine>
+			<nodeLineStyle>dotedLine</nodeLineStyle>
+		</nodeLine>
+		<nodeLineColor>
+			<l_red>0</l_red>
+			<l_green>0</l_green>
+			<l_blue>0</l_blue>
+		</nodeLineColor>
+	</inode>
+	<inode>
+		<id>84</id>
+		<pid>11</pid>
+		<level>2</level>
+		<label><![CDATA[機会/弱み]]></label>
+		<text><![CDATA[]]>
+		</text>
+		<labelAlign>single-middle-center</labelAlign>
+		<shape>Rect</shape>
+		<bound>
+			<left>162</left>
+			<right>317</right>
+			<top>199</top>
+			<bottom>271</bottom>
+		</bound>
+		<nodeLine>
+			<nodeLineStyle>dotedLine</nodeLineStyle>
+		</nodeLine>
+		<nodeLineColor>
+			<l_red>0</l_red>
+			<l_green>0</l_green>
+			<l_blue>0</l_blue>
+		</nodeLineColor>
+	</inode>
+	<inode>
+		<id>27</id>
+		<pid>0</pid>
+		<level>1</level>
+		<label><![CDATA[CSR（Corporate Social Responsibility）]]></label>
+		<text><![CDATA[（Corporate Social Responsibility）
+「企業の社会的責任」 と言われています。
+CSRには明確な定義はありません。企業に昔からあった、企業理念や経営理念をそのまま置き換えてしまうことも出来ます。企業は今までも、社会に対してさまざまな貢献を通して社会的責任を果たしてきました。
+製品やサービスを提供すること、雇用の創出をすること、税金を納付して金銭的に貢献すること、メセナ活動を通じた文化・芸術の提供などが挙げられます。]]>
+		</text>
+		<labelAlign>single-middle-center</labelAlign>
+		<shape>Rect</shape>
+		<bound>
+			<left>25</left>
+			<right>312</right>
+			<top>106</top>
+			<bottom>139</bottom>
+		</bound>
+		<nodeLine>
+			<nodeLineStyle>solidLine</nodeLineStyle>
+			<nodeLineWidth>1</nodeLineWidth>
+		</nodeLine>
+		<nodeLineColor>
+			<l_red>0</l_red>
+			<l_green>0</l_green>
+			<l_blue>0</l_blue>
+		</nodeLineColor>
+	</inode>
+	<inode>
+		<id>52</id>
+		<pid>0</pid>
+		<level>1</level>
+		<label><![CDATA[コンプライアンス（Compliance）]]></label>
+		<text><![CDATA[（Compliance）
+コンプライアンスとは、法令を遵守することをいいます。
+
+日本企業の直面した危機の多くは、リスク管理体制の不備から発生しており、法令遵守体制の強化が求められている。
+この概念は、1960年代から独禁法違反、株式のインサイダー取引事件などを経験したアメリカで深められてきました。
+
+【コンプライアンス体制の流れ】
+第1に、不正行為を防止するためには法令遵守基準や倫理規定を整備すべきです。
+第2に、これらのルールが遵守されているかを監視する機能・責任者が求められます。例えば、各種ルールの遵守状況を監視する部門として、法務部門ないしコンプライアンス部門を企業内部に設置します。また、各種ルールに従って職務遂行をしているかをチェックする専門職としてコンプライアンスオフィサーを設け、コンプライアンス報告書を作成するなどの対応を図る企業もあります。
+第3に、従業員への教育研修等により、各種ルールを遵守することの重要性やルール違反の場合に科される制裁措置について認識させることが重要です。
+最終的にコンプライアンス体制を確立するためには、法令・倫理規定遵守のマインドを企業文化・風土にまで落とし込むことが求められます。
+
+【相次ぐ不祥事で認識高まる】
+日本でも80年代から国際的な産業スパイ事件や共産圏への不正輸出事件をきっかけに議論が高まりました。とくに90年のバブル経済崩壊後は、企業不祥事が相次いで表面化し、コンプライアンスは企業の存亡にかかわる重要課題として認識されて、市民権を得ました。
+企業の不正防止に絡んでコーポレート・ガバナンス（企業統治）という言葉もよく使われています。日本の大企業では生え抜きのサラリーマンが経営陣を構成することが多い上、株式の持ち合いもあって、経営や業務執行へのチェック機能が働きにくいといわれています。こうしたコーポレート・ガバナンスが機能しないという問題が、コンプライアンス軽視を招きやすい一因とも指摘されています。
+コーポレート・ガナバンスが機能しにくい日本企業で、リスク管理を強化するためには、コンプライアンス体制の構築は極めて重要です。
+]]>
+		</text>
+		<labelAlign>single-middle-center</labelAlign>
+		<shape>Rect</shape>
+		<bound>
+			<left>26</left>
+			<right>253</right>
+			<top>328</top>
+			<bottom>360</bottom>
+		</bound>
+		<nodeLine>
+			<nodeLineStyle>solidLine</nodeLineStyle>
+			<nodeLineWidth>1</nodeLineWidth>
+		</nodeLine>
+		<nodeLineColor>
+			<l_red>0</l_red>
+			<l_green>0</l_green>
+			<l_blue>0</l_blue>
+		</nodeLineColor>
+	</inode>
+	<inode>
+		<id>54</id>
+		<pid>0</pid>
+		<level>1</level>
+		<label><![CDATA[ベンチャー・キャピタル（Venture Capital）]]></label>
+		<text><![CDATA[（Venture Capital）
+ベンチャー・キャピタル（VC）とは、成長可能性のあるベンチャー・ビジネス等に投資を行う企業と、そのための資金そのものを指します。一般的には企業を意味します。
+真にベンチャー企業の育成を担うのは誰か。期待されるのはハンズオン型ベンチャー・キャピタリスト。
+
+【リターンの25％が成功報酬】
+VCは、投資先企業に社外取締役を送り込んで経営に関与し、専門的知見と人的ネットワークを駆使した、きめ細かな支援を行うことで、企業の成長を促すという役割（ハンズオン型VC）が期待されています。また、こうした専門家をベンチャー・キャピタリストと呼んでいます。
+通常、VC会社または個人のベンチャー・キャピタリストは、外部の投資家（主して機関投資家）から資金を募り、VCファンド（投資事業組合）を形成します。VCファンドは、通常10～15年間かけて徐々に投資を行い、株式公開等によってキャピタルゲインを得ることで回収します。VC会社は、業務執行組合員としてVCファンドの運営責任を負うことで、ファンド総額の3％程度を年間管理報酬として得るとともに、リターン総額の25％程度を成功報酬として受け取ります。
+
+【日米のVCの違い】
+本場のアメリカと日本ではVCの実質的内容が異なります。アメリカでは、事業立ち上げ・支援ノウハウと金融知識を兼ね備えた個人のベンチャー・キャピタリストが数人集まり、個人の権限と責任で事業に取り組んでいます。そのため、莫大な成功報酬も個人のものとなります。
+一方、日本には150社程度のVC会社がありますが、多くは金融機関の子会社であるため、意思決定は親会社に委ね、勤務者はVC会社のサラリーマンであるため、思い切った活動はできないのが実情です。しかし、近年では、アメリカ型のVCを目指し、個人でハンズオン型を実践する独立系ベンチャー・キャピタリストも登場しています。
+]]>
+		</text>
+		<labelAlign>single-middle-center</labelAlign>
+		<shape>Rect</shape>
+		<bound>
+			<left>25</left>
+			<right>334</right>
+			<top>365</top>
+			<bottom>398</bottom>
+		</bound>
+		<nodeLine>
+			<nodeLineStyle>solidLine</nodeLineStyle>
+			<nodeLineWidth>1</nodeLineWidth>
+		</nodeLine>
+		<nodeLineColor>
+			<l_red>0</l_red>
+			<l_green>0</l_green>
+			<l_blue>0</l_blue>
+		</nodeLineColor>
+	</inode>
+	<inode>
+		<id>55</id>
+		<pid>0</pid>
+		<level>1</level>
+		<label><![CDATA[IR（Investor Relations）]]></label>
+		<text><![CDATA[（Investor Relations）
+IR とは、インベスター・リレーションズの略で、投資家向け広報と訳されます。一般的な広報をPR（パブリック・リレーションズ）といいますが、この「パブリック＝公衆、社会」を「インベスター＝投資家」に置き換えたものです。広義の広報活動のうち、投資家に的を絞ったものといえます。
+
+【決算説明会が中心】
+具体的に行われるIR活動には、アニュアルレポートなどの発行や広告活動などがありますが、中心となるのは決算説明会です。
+決算説明会とは、決算発表時期ごとに、上場企業の経営陣が過去業績の検証結果と今後の経営戦略について説明するものです。招かれるのは、証券アナリスト（証券会社に所属し株価の評価を行う専門家）やファンドマネジャー（機関投資家の中で実際の投資判断を行う専門家）です。
+IR活動対象は、自社の株価の適正化を図るために、株価に影響力の強いアナリストやファンドマネジャーが中心となります。一方、一部の企業では株主数を増やすために、個人投資家を中心としたIR活動を行っているところもあります。その目的は、上場維持基準を満たす株主数を充足する、買収のおそれを回避するために安定的な株主層を形成する、一般消費財メーカーや小売業などで本業の顧客を株主化するなど、多様です。具体的には、広報誌の発行、広告宣伝、ホームページでのIR情報の開示などの活動を行っています。
+
+【経営改革の促進に活用】
+IR活動では情報の継続性、一貫性が重要となります。その点、新規性が求められるマスコミ向け広報とは異なります。定期的な決算説明会の場で、開示項目としたデータ数値を更新して検証し、表明した経営戦略の進捗をフォローアップすることがIR活動の基本行動指針です。
+最近、上場企業の中にIRを経営改革に活用する考えが広がってきています。これらの企業では、決算説明会での経営トップ層の説明内容や、それを評価したアナリストレポートを社内に開示しています。これにより、社内が、株式市場に表明したコミットメントの実現と株式市場の評価を意識するようになり、継続的な経営改革の推進力になるのです。
+]]>
+		</text>
+		<labelAlign>single-middle-center</labelAlign>
+		<shape>Rect</shape>
+		<bound>
+			<left>27</left>
+			<right>205</right>
+			<top>406</top>
+			<bottom>438</bottom>
+		</bound>
+		<nodeLine>
+			<nodeLineStyle>solidLine</nodeLineStyle>
+			<nodeLineWidth>1</nodeLineWidth>
+		</nodeLine>
+		<nodeLineColor>
+			<l_red>0</l_red>
+			<l_green>0</l_green>
+			<l_blue>0</l_blue>
+		</nodeLineColor>
+	</inode>
+	<inode>
+		<id>56</id>
+		<pid>0</pid>
+		<level>1</level>
+		<label><![CDATA[R&D（Research & Development）]]></label>
+		<text><![CDATA[（Research & Development）
+R&D（研究開発）は、一般的に中長期的視点で研究を行っている「基礎研究」と事業への適用を目的とした「応用研究」があります。
+企業の成長力の源泉となる「技術」を創造し、事業化へと結びつけていく活動。
+
+【他社との協力による研究開発】
+高度成長期から1980年代前半までの日本企業のR&Dは、応用研究に傾倒していました。欧米で開発された技術を核に応用研究を進め、事業化することに注力していました。しかし、1980年代中頃、日本企業は基礎研究の強化を図り、米国は応用研究を強化するという方向にシフトしました。
+その後、1990年代に入って米国企業が競争力を回復する一方で、日本企業の競争力が低下し、現在は研究開発のスタイルが大きく変化しています。とくに、情報通信関連分野においては、1社の中で垂直統合的に技術を構築していくモデルから、事業のレイヤーごとに分業を図り、各レイヤー内で競争力のある企業が協力し、短期間に製品を開発していく水平分業的モデルに変化しました。
+
+【自社に必要な技術は何】
+企業の研究開発は、1社で基礎的領域から積み上げるものから、他社の技術、製品も活用し、短時間で事業化まで実現するモデルへと変わってきています。この結果、企業の研究機能としては、自社の事業に必要な技術が何であるか、また自社が持つべき技術・外部から調達できる技術は何かを見極めることが重要です。
+この機能を満たすのがテクノロジー・マーケティングといわれる機能で、必要があれば技術自体を外部から買う、あるいは技術を持つ企業を買収するといった手法（A&D）がとられるようになっています。
+]]>
+		</text>
+		<labelAlign>single-middle-center</labelAlign>
+		<shape>Rect</shape>
+		<bound>
+			<left>27</left>
+			<right>227</right>
+			<top>446</top>
+			<bottom>478</bottom>
+		</bound>
+		<nodeLine>
+			<nodeLineStyle>solidLine</nodeLineStyle>
+			<nodeLineWidth>1</nodeLineWidth>
+		</nodeLine>
+		<nodeLineColor>
+			<l_red>0</l_red>
+			<l_green>0</l_green>
+			<l_blue>0</l_blue>
+		</nodeLineColor>
+	</inode>
+	<inode>
+		<id>62</id>
+		<pid>0</pid>
+		<level>1</level>
+		<label><![CDATA[エンパワーメント（Empowerment）]]></label>
+		<text><![CDATA[（Empowerment）
+パワーを与える（Em＋Power）という意味から、現場に権限を与えることで、自主性を生み出す方法。
+経営学では、エンパワーメントはアカウンタビリティ（説明責任）とともに、人や組織のやる気とパフォーマンス（成果）を引き出す方法として注目されています。
+
+【ピラミッド型では迅速な意思決定ができない】
+エンパワーメントには、権限委譲とか決定参加という人間関係の側面と、個人が内発的にモチベートされるというモチベーショナルな側面があります。また近年では、個人に適用するだけでなく、集団やチームに対しても、この概念が適用されています。
+1990年代半ば以降、インターネットの普及が進み、意思決定の迅速化が叫ばれています。従来のような階層に基づかない、すばやい仕事の進め方と新タイプのリーダー像が求められています。
+しかし、ピラミッド型組織では、ヒエラルキー（階層）構造の中を、下から情報が上がってくるのに時間がかかります。また、情報は途中で取捨選択されるため、情報の量と質は、徐々に減少し劣化していきます。さらに、業務が複雑化し拡大するにつれ、管理上の情報処理量が増大し、現場の状況がわからないマネジメント（経営者や管理職）では、迅速で的確な判断が難しくなってきました。
+逆に現場では、顧客に接し、他社と競争し、常に環境変化に直面しているため、新しく正確な情報を持っています。現場に権限委譲することによって、現場での改善や革新がすばやく実行されることになります。
+
+【3つのメリット】
+エンパワーメントのメリットは、3つあげられます。
+(1)上司の判断を仰ぐ必要がないために業務遂行のスピードが向上する
+(2)営業、生産、開発などの現場で柔軟かつ最適な対応が可能になる
+(3)現場が自ら情報収集したり業務の改善に取り組んだりして経営能力が向上する
+
+エンパワーメントによって人々が価値を創造しやすいように、公正な評価と報酬、キャリアプランに基づく積極的な能力開発などが企業に求められます。
+]]>
+		</text>
+		<labelAlign>single-middle-center</labelAlign>
+		<shape>Rect</shape>
+		<bound>
+			<left>29</left>
+			<right>253</right>
+			<top>525</top>
+			<bottom>558</bottom>
+		</bound>
+		<nodeLine>
+			<nodeLineStyle>solidLine</nodeLineStyle>
+			<nodeLineWidth>1</nodeLineWidth>
+		</nodeLine>
+		<nodeLineColor>
+			<l_red>0</l_red>
+			<l_green>0</l_green>
+			<l_blue>0</l_blue>
+		</nodeLineColor>
+	</inode>
+	<inode>
+		<id>68</id>
+		<pid>0</pid>
+		<level>1</level>
+		<label><![CDATA[SRI（社会的責任投資：Socially Responsible Investment）]]></label>
+		<text><![CDATA[（Socially Responsible Investment）
+社会的責任投資（SRI）は、収益性などの財務的な観点のみならず、投資先の企業の社会性をも考慮して行う投資活動のことを指します。
+収益性など財務的観点に加えて、企業の社会性を考慮して行う社会的責任投資が欧米を中心に活発化している。
+
+【社会性の高い企業へ投資】
+簡単にいうと、例えば環境に配慮していない企業よりも配慮している企業に投資しようとする動きです。
+個人や機関投資家のこうした動きが活発化している背景には、
+　(1)投資家の利益だけではなく社会へも役立つ投資を行う
+　(2)投資活動を通じて社会に貢献する
+　(3)社会性の高い企業はそうでない企業よりも成長性がある
+など、いくつかの考え方があります。海外では、こうした投資活動を行う個人や機関投資家への情報提供を行う専門の評価機関があり、社会的責任投資の対象となる企業を選定しています。有名な評価機関としてはIRRC（米）やKLD（米）などがあります。
+]]>
+		</text>
+		<labelAlign>single-middle-center</labelAlign>
+		<shape>Rect</shape>
+		<bound>
+			<left>28</left>
+			<right>413</right>
+			<top>485</top>
+			<bottom>519</bottom>
+		</bound>
+		<nodeLine>
+			<nodeLineStyle>solidLine</nodeLineStyle>
+			<nodeLineWidth>1</nodeLineWidth>
+		</nodeLine>
+		<nodeLineColor>
+			<l_red>0</l_red>
+			<l_green>0</l_green>
+			<l_blue>0</l_blue>
+		</nodeLineColor>
+	</inode>
+	<ilink>
+		<from>29</from>
+		<to>31</to>
+		<caption><![CDATA[]]></caption>
+		<linkLine>
+			<linkLineStyle>solidLine</linkLineStyle>
+			<linkLineWidth>1</linkLineWidth>
+			<arrow>a_double</arrow>
+		</linkLine>
+		<linkLineColor>
+			<n_red>0</n_red>
+			<n_green>0</n_green>
+			<n_blue>0</n_blue>
+		</linkLineColor>
+	</ilink>
+	<ilink>
+		<from>30</from>
+		<to>32</to>
+		<caption><![CDATA[]]></caption>
+		<linkLine>
+			<linkLineStyle>solidLine</linkLineStyle>
+			<linkLineWidth>1</linkLineWidth>
+			<arrow>a_double</arrow>
+		</linkLine>
+		<linkLineColor>
+			<n_red>0</n_red>
+			<n_green>0</n_green>
+			<n_blue>0</n_blue>
+		</linkLineColor>
+	</ilink>
+	<ilink>
+		<from>29</from>
+		<to>32</to>
+		<caption><![CDATA[]]></caption>
+		<linkLine>
+			<linkLineStyle>solidLine</linkLineStyle>
+			<linkLineWidth>1</linkLineWidth>
+			<arrow>a_double</arrow>
+		</linkLine>
+		<linkLineColor>
+			<n_red>0</n_red>
+			<n_green>0</n_green>
+			<n_blue>0</n_blue>
+		</linkLineColor>
+	</ilink>
+	<ilink>
+		<from>29</from>
+		<to>30</to>
+		<caption><![CDATA[]]></caption>
+		<linkLine>
+			<linkLineStyle>solidLine</linkLineStyle>
+			<linkLineWidth>1</linkLineWidth>
+			<arrow>a_double</arrow>
+		</linkLine>
+		<linkLineColor>
+			<n_red>0</n_red>
+			<n_green>0</n_green>
+			<n_blue>0</n_blue>
+		</linkLineColor>
+	</ilink>
+	<ilink>
+		<from>30</from>
+		<to>31</to>
+		<caption><![CDATA[]]></caption>
+		<linkLine>
+			<linkLineStyle>solidLine</linkLineStyle>
+			<linkLineWidth>1</linkLineWidth>
+			<arrow>a_double</arrow>
+		</linkLine>
+		<linkLineColor>
+			<n_red>0</n_red>
+			<n_green>0</n_green>
+			<n_blue>0</n_blue>
+		</linkLineColor>
+	</ilink>
+	<ilink>
+		<from>31</from>
+		<to>32</to>
+		<caption><![CDATA[]]></caption>
+		<linkLine>
+			<linkLineStyle>solidLine</linkLineStyle>
+			<linkLineWidth>1</linkLineWidth>
+			<arrow>a_double</arrow>
+		</linkLine>
+		<linkLineColor>
+			<n_red>0</n_red>
+			<n_green>0</n_green>
+			<n_blue>0</n_blue>
+		</linkLineColor>
+	</ilink>
+	<ilink>
+		<from>33</from>
+		<to>37</to>
+		<caption><![CDATA[]]></caption>
+		<linkLine>
+			<linkLineStyle>solidLine</linkLineStyle>
+			<linkLineWidth>1</linkLineWidth>
+			<arrow>a_single</arrow>
+		</linkLine>
+		<linkLineColor>
+			<n_red>0</n_red>
+			<n_green>0</n_green>
+			<n_blue>0</n_blue>
+		</linkLineColor>
+	</ilink>
+	<ilink>
+		<from>34</from>
+		<to>37</to>
+		<caption><![CDATA[]]></caption>
+		<linkLine>
+			<linkLineStyle>solidLine</linkLineStyle>
+			<linkLineWidth>1</linkLineWidth>
+			<arrow>a_single</arrow>
+		</linkLine>
+		<linkLineColor>
+			<n_red>0</n_red>
+			<n_green>0</n_green>
+			<n_blue>0</n_blue>
+		</linkLineColor>
+	</ilink>
+	<ilink>
+		<from>35</from>
+		<to>37</to>
+		<caption><![CDATA[]]></caption>
+		<linkLine>
+			<linkLineStyle>solidLine</linkLineStyle>
+			<linkLineWidth>1</linkLineWidth>
+			<arrow>a_single</arrow>
+		</linkLine>
+		<linkLineColor>
+			<n_red>0</n_red>
+			<n_green>0</n_green>
+			<n_blue>0</n_blue>
+		</linkLineColor>
+	</ilink>
+	<ilink>
+		<from>36</from>
+		<to>37</to>
+		<caption><![CDATA[]]></caption>
+		<linkLine>
+			<linkLineStyle>solidLine</linkLineStyle>
+			<linkLineWidth>1</linkLineWidth>
+			<arrow>a_single</arrow>
+		</linkLine>
+		<linkLineColor>
+			<n_red>0</n_red>
+			<n_green>0</n_green>
+			<n_blue>0</n_blue>
+		</linkLineColor>
+	</ilink>
+	<ilink>
+		<from>43</from>
+		<to>41</to>
+		<caption><![CDATA[]]></caption>
+		<linkLine>
+			<linkLineStyle>solidLine</linkLineStyle>
+			<linkLineWidth>1</linkLineWidth>
+			<arrow>a_single</arrow>
+		</linkLine>
+		<linkLineColor>
+			<n_red>0</n_red>
+			<n_green>0</n_green>
+			<n_blue>0</n_blue>
+		</linkLineColor>
+	</ilink>
+	<ilink>
+		<from>45</from>
+		<to>42</to>
+		<caption><![CDATA[]]></caption>
+		<linkLine>
+			<linkLineStyle>solidLine</linkLineStyle>
+			<linkLineWidth>1</linkLineWidth>
+			<arrow>a_single</arrow>
+		</linkLine>
+		<linkLineColor>
+			<n_red>0</n_red>
+			<n_green>0</n_green>
+			<n_blue>0</n_blue>
+		</linkLineColor>
+	</ilink>
+	<ilink>
+		<from>43</from>
+		<to>44</to>
+		<caption><![CDATA[]]></caption>
+		<linkLine>
+			<linkLineStyle>solidLine</linkLineStyle>
+			<linkLineWidth>1</linkLineWidth>
+			<arrow>a_none</arrow>
+		</linkLine>
+		<linkLineColor>
+			<n_red>0</n_red>
+			<n_green>0</n_green>
+			<n_blue>0</n_blue>
+		</linkLineColor>
+	</ilink>
+	<ilink>
+		<from>44</from>
+		<to>45</to>
+		<caption><![CDATA[]]></caption>
+		<linkLine>
+			<linkLineStyle>solidLine</linkLineStyle>
+			<linkLineWidth>1</linkLineWidth>
+			<arrow>a_none</arrow>
+		</linkLine>
+		<linkLineColor>
+			<n_red>0</n_red>
+			<n_green>0</n_green>
+			<n_blue>0</n_blue>
+		</linkLineColor>
+	</ilink>
+</iEditDoc>
