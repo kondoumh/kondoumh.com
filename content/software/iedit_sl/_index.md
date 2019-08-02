@@ -4,14 +4,17 @@ date: 2019-07-31T12:24:32+09:00
 draft: true
 ---
 
-iEdit for Silverlight は、Microsoft の RIA 技術である Silverlight にて実装した、iEdit のクローンです。Windows でも Mac でも動作する iEdit として開発を始めてみましたが、ある程度作ったところで忙しくなり数年放置。そのうちに Microsoft はどうやら Silverlight を見捨てる感じになってきちゃいました。2012年末、Microsoft から Silverlight 終了の悲しいお知らせが。HTML5 に注力するとのこと。ということで、iEdit for Silverlight もその短い開発期間(燃えて作ってたのは数週間)を終えました。
+今はなき Microsoft の RIA 技術 Silverlight で動作する iEdit クローンです。
 
-- Windows 版では実現していないリンクへのリンクも張れます。
+- Windows 版では実現していないリンクへのリンクも作れます。
 - フルスクリーンモードもあります。
 - グラデーション付きで半透明のノードなどが作れます。
-- アウトオブブラウザーアプリケーションとしてデスクトップアプリケーションのように動作させることが可能です。
-- DirectX 9.0c 以降の DirectX が動作するビデオカードを搭載していれば、GPU Acceleration により描画されます
+- アウトオブブラウザー機能でデスクトップアプリのように動作させることが可能です。
+- GPU Acceleration により描画されます。
+
+{{< youtube 1gs6TgO1S_4 >}}
+
+<br>
 
 <iframe class="hatenablogcard" style="width:100%;height:155px;max-width:600px;" title="kondoumh/iedit-silverlight" src="https://hatenablog-parts.com/embed?url=https://github.com/kondoumh/iedit-silverlight" width="300" height="150" frameborder="0" scrolling="no"></iframe>
 
-{{< youtube 1gs6TgO1S_4 >}}

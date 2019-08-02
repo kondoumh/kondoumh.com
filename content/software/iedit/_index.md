@@ -16,18 +16,16 @@ draft: true
 
 iEdit は、いわゆるアイデアプロセッサーの一種です。ラベルとテキストからなる「ノード」をアイデアを構成する１つの単位とします。iEdit ではツリー構造とネットワーク構造を用いてノードを組み合わせ、アイデアを練り上げていきます。アウトラインエディターとダイアグラムエディターが融合したものです。
 
-ツリー構造ではノードの追加・削除、レベルの上げ下げなどが自在にできます。ネットワーク構造においては、ツリー上で同一レベルにあるノードが表示されます。ネットワーク構造ではノードの位置と大きさ、フォント、色が自由に設定できます。ノードとノードの関連は「リンク」という概念で表現されます。リンクはネットワーク構造においては線と矢印で表現されます。また、リンク先はノードに限らず、ディスク上のファイルやWebのURLなども指定できます。
+ツリー構造ではノードの追加・削除、レベルの上げ下げなどが自在にできます。ネットワーク構造においては、ツリー上で同一レベルにあるノードが表示されます。ネットワーク構造ではノードの位置と大きさ、フォント、色が自由に設定できます。ノードとノードの関連は「リンク」という概念で表現されます。リンクはネットワーク構造においては線と矢印で表現されます。また、リンク先はノードに限らず、ディスク上のファイルや Web の URL も指定できます。
 
 ネットワーク図はクリップボードで他のアプリケーションに貼り付け可能な他、テキスト、HTML、JSON、XML 形式へのデータ出力と、テキスト、JSON、XML 形式のインポートが可能です。
 
-{{< figure src="/images/iedit/ieditLove.png" title="イラスト by こど。さん m(_ _)m" >}}
+{{< figure src="/images/iedit/ieditLove.png" title="イラスト by こど。さん" >}}
 
-iEditのアイコンはもともとMFCのアイコンのパクリでした、T・E・Nになってます。これは、ツリー(T)とエディター(E)とネットワーク(N)が三位一体となったソフトウェアという意味を表現したつもりでした。では、iEditの名前の由来は？ これは、idea editor の略です。
+iEdit のアイコンはツリー(T)とエディター(E)とネットワーク(N)が一体となったソフトウェアという意味を表現しています。名前は idea editor から来ています。
 
 ## 動作環境
-本プログラムは Windows 10 で動作します。
-
-本プログラムは Visual C++ 2017 でビルドしています。
+本プログラムは Windows 10 で動作します。Visual C++ 2017 でビルドしています。
 
 ## 4つのビュー
 iEdit は４つのビューからなり、それぞれ連携してアイデアプロセッシングを支援します。
@@ -118,7 +116,7 @@ iEditはDFDや業務フロー図の専用ツールではないのでDFDや業務
 
 {{< figure src="/images/iedit/bookmarks.gif" >}}
 
-## 他サイトでの iEdit の紹介記事
+## 他サイトでの紹介
 - [iEditの使い方 - YouTube](https://www.youtube.com/watch?v=iwmC3Tw_V1k)
 - [アイデアを自由自在に整理できる「iEdit」- 自由とテクノロジーを愛す者のサイト](http://neoblog.itniti.net/iedit-1/)
 - [TRPGシナリオ・マップを全体図を見ながら書ける！ アイデアプロセッサー「iEdit」がとても便利 - TRPG every day](http://4d4l.net/trpg-scenario-iedit/)
@@ -132,9 +130,3 @@ iEditはDFDや業務フロー図の専用ツールではないのでDFDや業務
 - [文書アウトライン作成支援ツール iEdit - 情報考学 Passion For The Future](http://www.ringolab.com/note/daiya/archives/000317.html)
 - [iEdit - MOONGIFT](http://www.moongift.jp/2006/01/1011/)
 - [新着ソフトレビュー - Vector](http://www.vector.co.jp/magazine/softnews/020112/n0201121.html)
-
-## ダウンロード、ドキュメント
-- [ダウンロード](/software/iedit/download/)
-- [リリースノート](https://iedit.kondoumh.com/releasenotes/)
-- [ユーザーガイド](https://iedit.kondoumh.com/)
-- [関連ツール](/software/iedit/tools)

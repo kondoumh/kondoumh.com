@@ -11,12 +11,12 @@ Windows 専用のアイデアプロセッサーです。
 
 
 ## Scrapbox in Electron (sbe)
-Scrapbox の非公式デスクトップアプリです。
+[Scrapbox](https://scrapbox.io) の非公式デスクトップアプリです。
 
 <iframe class="hatenablogcard" style="width:100%;height:155px;max-width:600px;" title="kondoumh/sbe" src="https://hatenablog-parts.com/embed?url=https://github.com/kondoumh/sbe" width="300" height="150" frameborder="0" scrolling="no"></iframe>
 
 ## changelog-support (Visual Studio Code Extention)
-ChangeLog の記述をサポートする Visual Studio Code 拡張です。
+ChangeLog メモ書きをサポートする VS Code 拡張です。
 
 <iframe class="hatenablogcard" style="width:100%;height:155px;max-width:600px;" title="changelog-support" src="https://hatenablog-parts.com/embed?url=https://marketplace.visualstudio.com/items?itemName=kondoumh.changelog-support" width="300" height="150" frameborder="0" scrolling="no"></iframe>
 
