@@ -1,7 +1,7 @@
 ---
 title: "iEdit for Silverlight"
 date: 2019-07-31T12:24:32+09:00
-draft: true
+draft: false
 ---
 
 今はなき Microsoft の RIA 技術 Silverlight で動作する iEdit クローンです。

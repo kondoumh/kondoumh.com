@@ -1,7 +1,7 @@
 ---
 title: "iEdit tools"
 date: 2019-07-31T21:44:04+09:00
-draft: true
+draft: false
 ---
 
 ## iEdit 用シェイプファイル(アルバトロスさん作)

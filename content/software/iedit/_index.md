@@ -1,7 +1,7 @@
 ---
 title: "iEdit"
 date: 2019-07-25T00:41:11+09:00
-draft: true
+draft: false
 ---
 
 {{< figure src="/images/iedit/iedit_logo_icon.png" >}}

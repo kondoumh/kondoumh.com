@@ -1,7 +1,7 @@
 ---
 title: "Before Coding"
 date: 2019-07-31T12:24:22+09:00
-draft: true
+draft: false
 ---
 
 オブジェクト指向設計で UML が注目されはじめた1998年頃、Rational Rose は非常に高価でした。簡単にクラス図を描きたいという欲求を満たすために作りました。

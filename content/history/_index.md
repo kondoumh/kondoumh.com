@@ -1,7 +1,7 @@
 ---
 title: "History"
 date: 2019-07-27T22:58:31+09:00
-draft: true
+draft: false
 ---
 
 | date | content |

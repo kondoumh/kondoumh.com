@@ -1,7 +1,7 @@
 ---
 title: "Download"
 date: 2019-07-30T06:14:31+09:00
-draft: true
+draft: false
 ---
 
 ## Version 2.40 (2018/09/16)
