@@ -2,6 +2,7 @@
 title: "iEdit for Silverlight"
 date: 2019-07-31T12:24:32+09:00
 description: "iEdit clone running on Silverlight."
+tags: ["software", "iedit"]
 draft: false
 ---
 

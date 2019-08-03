@@ -4,6 +4,7 @@ date: 2019-07-30T06:14:31+09:00
 description: "iEdit download page"
 images: ["/images/mh.png"]
 images: ["/images/iedit/iedit_icon.png"]
+tags: ["software", "iedit"]
 draft: false
 ---
 

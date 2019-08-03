@@ -2,6 +2,7 @@
 title: "Software"
 date: 2019-07-25T00:05:52+09:00
 description: "kondoumh software list"
+tags: ["software"]
 draft: false
 ---
 
