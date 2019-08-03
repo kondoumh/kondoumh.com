@@ -16,8 +16,9 @@ enableRobotsTXT = true
   # filename = "sitemap.xml"
 
 [params]
-  favicon = "/images/mh.png"
+  favicon = ""
   description = "kondoumh home page."
+  images = ["/images/mh.png"]
   facebook = ""
   twitter = "https://twitter.com/kondoumh"
   instagram = ""
