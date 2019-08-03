@@ -1,6 +1,8 @@
 ---
 title: "Profile"
 date: 2019-07-27T22:53:31+09:00
+description: "kondoumh profile"
+images: ["/images/mh.png"]
 draft: false
 ---
 
