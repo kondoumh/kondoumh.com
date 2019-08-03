@@ -13,11 +13,11 @@ enableRobotsTXT = true
 [sitemap]
   changefreq = "monthly"
   priority = 0.5
-  # filename = "sitemap.xml"
+  filename = "sitemap.xml"
 
 [params]
   favicon = ""
-  description = "kondoumh home page."
+  description = "kondoumh home page. write about software I made."
   images = ["/images/mh.png"]
   facebook = ""
   twitter = "https://twitter.com/kondoumh"
