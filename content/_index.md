@@ -1,9 +1,6 @@
 ---
 title: "kondoumh Home"
 date: 2019-07-24T23:57:49+09:00
-description: "kondoumh home page."
-images: ["/images/mh.png"]
-tags: ["top"]
 draft: false
 ---
 

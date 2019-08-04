@@ -3,7 +3,6 @@ title: "iEdit"
 date: 2019-07-25T00:41:11+09:00
 description: "iEdit : idea processor"
 images: ["/images/iedit/iedit_icon.png"]
-tags: ["software", "iedit"]
 draft: false
 ---
 

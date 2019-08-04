@@ -2,8 +2,6 @@
 title: "History"
 date: 2019-07-27T22:58:31+09:00
 description: "site history"
-images: ["/images/mh.png"]
-tags: ["history"]
 draft: false
 ---
 

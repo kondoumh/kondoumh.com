@@ -9,6 +9,7 @@ SectionPagesMenu = "main"
 Paginate = 1 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = "UA-5618326-5"
 enableRobotsTXT = true
+disableKinds = ["RSS"]
 
 [sitemap]
   changefreq = "monthly"

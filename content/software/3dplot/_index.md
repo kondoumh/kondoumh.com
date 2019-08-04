@@ -2,7 +2,6 @@
 title: "3D Plot"
 date: 2019-07-31T09:36:04+09:00
 description: "Simple plotter by OpenGL"
-tags: ["software"]
 draft: false
 ---
 
