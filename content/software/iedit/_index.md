@@ -8,11 +8,11 @@ draft: false
 
 {{< figure src="/images/iedit/iedit_logo_icon.png" >}}
 
-- [ダウンロード](/software/iedit/download/)
-- [ドキュメント](https://iedit.kondoumh.com)
-- [リリースノート](https://iedit.kondoumh.com/releasenotes/)
+- [Download](/software/iedit/download/)
+- [Document](https://iedit.kondoumh.com)
+- [Release notes](https://iedit.kondoumh.com/releasenotes/)
 - [Blog](https://blog.kondoumh.com/archive/category/iEdit)
-- [関連ツール](/software/iedit/tools/)
+- [Tools](/software/iedit/tools/)
 
 ## iEdit とは
 
