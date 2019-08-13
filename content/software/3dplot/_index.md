@@ -12,7 +12,7 @@ OpenGL を利用したシンプルなプロッターです。グラフの回転�
 Windows XP以降で動作します。Visual C++ 2005 でビルドしています。
 
 ## 使用方法
-3dplot.exe を適当なディレクトリにコピーし、起動します。ファイルメニューの「開く」を使ってデータファイルを指定するか、直接ドラッグ・ドロップもできます。マウスドラッグにあわせてデータを回転させることができます。F5でズームイン、F6でズームアウトです。
+3dplot.exe を起動します。ファイルメニューの「開く」を使ってデータファイルを指定するか、直接ドラッグ・ドロップもできます。マウスドラッグにあわせてデータを回転させることができます。F5でズームイン、F6でズームアウトです。
 
 データファイルは、タブまたはスペースで区切られたテキスト形式です。
 
@@ -41,4 +41,6 @@ ThinkPad のハードディスク保護のための加速度センサーから P
 
 {{< youtube -GxdDLJKh9w >}}
 
-ダウンロード
+<br>
+
+<iframe class="hatenablogcard" style="width:100%;height:155px;max-width:600px;" title="kondoumh/3dplot" src="https://hatenablog-parts.com/embed?url=https://github.com/kondoumh/3dplot" width="300" height="150" frameborder="0" scrolling="no"></iframe>
