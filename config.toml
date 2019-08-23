@@ -1,6 +1,6 @@
 baseURL = "https://kondoumh.com/"
 languageCode = "ja-jp"
-title = "kondoumh Home"
+title = "kondoumh"
 theme = "ananke"
 
 MetaDataFormat = "yaml"
