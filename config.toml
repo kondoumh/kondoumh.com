@@ -33,3 +33,4 @@ disableKinds = ["RSS"]
   background_color_class = "bg-black"
   featured_image = "/images/1500x500.jpeg"
   recent_posts_number = 0
+  custom_css = ["css/custom.css"]
