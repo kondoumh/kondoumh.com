@@ -29,7 +29,7 @@ born in Kyoto City 1968, living in Tokyo.
 - [ITpro: すごい設計書 - プロジェクトを迷走させないシステム開発地図、成果物と担当者が一目でわかる](http://itpro.nikkeibp.co.jp/atcl/column/17/111000511/111600003)
 - [gihyo.jp 技術評論社: トラブルシューティングの極意―達人に訊く問題解決のヒント 第9回［ソフトウェア開発編］［実例満載］現場での対応と改善の手段(Software Design の記事転載)](http://gihyo.jp/admin/feature/01/trouble-shooting/0009)
 - [ITmedia エンタープライズ：「システム開発地図」で画面はどう設計する？ - 第5回](http://www.itmedia.co.jp/enterprise/articles/1612/21/news007.html)
-- [http://www.itmedia.co.jp/enterprise/articles/1612/14/news001.html](http://www.itmedia.co.jp/enterprise/articles/1612/14/news001.html)
+- [ITmedia エンタープライズ：「システム開発地図」ドメインモデル作成の5つの注意点　- 第4回 ](http://www.itmedia.co.jp/enterprise/articles/1612/14/news001.html)
 - [ITmedia エンタープライズ：「システム開発地図」の使い方と作り方 - 第3回](http://www.itmedia.co.jp/enterprise/articles/1611/22/news156.html)
 - [ITmedia エンタープライズ：「システム開発地図」の導入で現場はどう変わるのか - 第2回](http://www.itmedia.co.jp/enterprise/articles/1610/28/news006.html)
 - [ITmedia エンタープライズ：「システム開発地図」でトレーサビリティーを導入しよう！- 第1回](http://www.itmedia.co.jp/enterprise/articles/1610/06/news023.html)
