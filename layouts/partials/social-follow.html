@@ -66,3 +66,9 @@
   {{- partial "new-window-icon.html" . -}}
 </a>
 {{ end }}
+{{ with .Param "scrapbox" }}
+<a href="{{ . }}" target="_blank" class="link-transition mastodon link dib z-999 pt3 pt0-l mr1" title="scrapbox link" rel="noopener" aria-label="follow on Mastodon——Opens in a new window">
+  {{ partial "svg/scrapbox.svg" (dict "size" $icon_size) }}
+  {{- partial "new-window-icon.html" . -}}
+</a>
+{{ end }}
