@@ -8,13 +8,12 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-    - name: install hugo
+    - name: install hugo and build site
       run: |
         curl -L https://github.com/gohugoio/hugo/releases/download/v${VERSION}/hugo_${VERSION}_linux-64bit.tar.gz | tar -xz
         mv hugo /usr/local/bin/hugo
 
     - uses: actions/checkout@v1
-    - name: build site
     - run: HUGO_ENV=production hugo
 
     - uses: actions/upload-artifact@master
