@@ -20,5 +20,5 @@ jobs:
 
     - uses: actions/upload-artifact@master
       with:
-        name: archive
+        name: public
         path: ./public
