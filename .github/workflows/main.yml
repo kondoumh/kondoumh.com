@@ -11,7 +11,7 @@ jobs:
     - name: install hugo and build site
       run: |
         curl -L https://github.com/gohugoio/hugo/releases/download/v0.57.2/hugo_0.57.2_linux-64bit.tar.gz | tar -xz
-        mv hugo /usr/local/bin/hugo
+        sudo mv hugo /usr/local/bin/hugo
 
     - uses: actions/checkout@v1
     - run: HUGO_ENV=production hugo
