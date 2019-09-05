@@ -14,7 +14,9 @@ jobs:
         sudo mv hugo /usr/local/bin/hugo
 
     - uses: actions/checkout@v1
-    - run: HUGO_ENV=production hugo
+    - run: |
+      git submodule update -i
+      HUGO_ENV=production hugo
 
     - uses: actions/upload-artifact@master
       with:
