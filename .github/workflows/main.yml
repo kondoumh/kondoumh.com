@@ -9,7 +9,7 @@ jobs:
     
     steps:
     - env:
-      HUGO_VERSION:0.57.2
+      HUGO_VERSION: 0.57.2
     - name: install hugo and build site
       run: |
         curl -L https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_linux-64bit.tar.gz | tar -xz
