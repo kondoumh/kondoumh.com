@@ -16,9 +16,9 @@ jobs:
         HUGO_VERSION: 0.57.2
 
     - uses: actions/checkout@v1
-    - run: |
-        git submodule update -i
-        HUGO_ENV=production hugo
+      with:
+        submodules: true
+    - run: HUGO_ENV=production hugo
 
     - uses: actions/upload-artifact@master
       with:
