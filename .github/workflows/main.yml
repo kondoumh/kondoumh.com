@@ -15,10 +15,12 @@ jobs:
       env:
         HUGO_VERSION: 0.57.2
 
-    - name: generate
+    - name: checkout
     - uses: actions/checkout@v1
       with:
         submodules: true
+
+    - name: generate
     - run: HUGO_ENV=production hugo
 
     - name: archive
