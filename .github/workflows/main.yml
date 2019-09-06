@@ -10,7 +10,7 @@ jobs:
     steps:
     - name: install hugo and build site
       run: |
-        curl -L https://github.com/gohugoio/hugo/releases/download/v0.57.2/hugo_0.57.2_linux-64bit.tar.gz | tar -xz
+        curl -L https://github.com/gohugoio/hugo/releases/download/v${{ secrets.HUGO_VERSION }}/hugo_${{ secrets.HUGO_VERSION }}_linux-64bit.tar.gz | tar -xz
         sudo mv hugo /usr/local/bin/hugo
 
     - uses: actions/checkout@v1
