@@ -21,7 +21,7 @@ jobs:
         submodules: true
 
     - name: generate
-    - run: HUGO_ENV=production hugo
+      run: HUGO_ENV=production hugo
 
     - name: archive
       uses: actions/upload-artifact@master
