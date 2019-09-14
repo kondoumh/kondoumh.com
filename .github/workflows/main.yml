@@ -1,4 +1,4 @@
-name: publish Site
+name: Generate and publish site
 
 on: [push]
 
