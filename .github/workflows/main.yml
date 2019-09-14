@@ -28,3 +28,9 @@ jobs:
       with:
         name: public
         path: ./public
+
+    - name: publish
+      run: |
+        pushd ./public
+        find . -type f -exec curl --ftp-create-dirs -T {} ftp://${{ secrets.FTP_USER }}:${{ secrets.FTP_PASSWD }}@${{ secrets.FTP_HOST}}/${{ secrets.ROOT_PATH}}/{} \;
+        popd
