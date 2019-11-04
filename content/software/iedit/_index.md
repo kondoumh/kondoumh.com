@@ -119,6 +119,7 @@ iEditはDFDや業務フロー図の専用ツールではないのでDFDや業務
 {{< figure src="/images/iedit/bookmarks.gif" >}}
 
 ## 他サイトでの紹介
+- [アウトラインプロセッサ - Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A6%E3%83%88%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%97%E3%83%AD%E3%82%BB%E3%83%83%E3%82%B5)
 - [iEditの使い方 - YouTube](https://www.youtube.com/watch?v=iwmC3Tw_V1k)
 - [アイデアを自由自在に整理できる「iEdit」- 自由とテクノロジーを愛す者のサイト](http://neoblog.itniti.net/iedit-1/)
 - [TRPGシナリオ・マップを全体図を見ながら書ける！ アイデアプロセッサー「iEdit」がとても便利 - TRPG every day](http://4d4l.net/trpg-scenario-iedit/)
