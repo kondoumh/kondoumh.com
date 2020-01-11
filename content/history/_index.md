@@ -7,6 +7,7 @@ draft: false
 
 | date | content |
 |:-----|:-------|
+| 2019.09.14 | [公開を GitHub Ations で自動化](https://blog.kondoumh.com/entry/2019/09/14/231731) |
 | 2019.08.03 | [サイトリニューアル (Hugo に移行)](https://blog.kondoumh.com/entry/2019/08/04/220044) |
 | 2018.09.16 | iEdit 2.40 公開 |
 | 2018.08.26 | [iEdit ユーザーズマニュアルを GitBook でリニューアル](https://blog.kondoumh.com/entry/2018/08/26/132548) |
