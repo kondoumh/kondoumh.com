@@ -15,7 +15,12 @@ Windows 専用のアイデアプロセッサーです。
 
 [Blog](https://blog.kondoumh.com/archive/category/sbe)
 
-<iframe class="hatenablogcard" style="width:100%;height:155px;max-width:600px;" title="kondoumh/sbe" src="https://hatenablog-parts.com/embed?url=https://github.com/kondoumh/sbe" width="300" height="150" frameborder="0" scrolling="no"></iframe>
+[![sbe](../images/software/sbe_card.png)](http://github.com/kondoumh/sbe)
+
+## Twitter client by Electron (mtwe)
+Electron webview で動作する Twitter クライアント。タイムラインの自動リフレッシュが可能です。。
+
+[![mtwe](../images/software/mtwe_card.png)](https://github.com/kondoumh/mtwe)
 
 ## changelog-support (Visual Studio Code Extention)
 ChangeLog メモ書きをサポートする VS Code 拡張です。
