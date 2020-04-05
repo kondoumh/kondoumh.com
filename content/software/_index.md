@@ -8,19 +8,21 @@ draft: false
 ## iEdit
 Windows 専用のアイデアプロセッサーです。
 
-<iframe class="hatenablogcard" style="width:100%;height:155px;max-width:600px;" title="kondoumh/sbe" src="https://hatenablog-parts.com/embed?url=https://kondoumh.com/software/iedit/" width="300" height="150" frameborder="0" scrolling="no"></iframe>
+<iframe class="hatenablogcard" style="width:100%;height:155px;max-width:600px;" title="kondoumh/iEdit" src="https://hatenablog-parts.com/embed?url=https://kondoumh.com/software/iedit/" width="300" height="150" frameborder="0" scrolling="no"></iframe>
 
 ## Scrapbox in Electron (sbe)
 [Scrapbox](https://scrapbox.io) の非公式デスクトップアプリです。
 
 [Blog](https://blog.kondoumh.com/archive/category/sbe)
 
-[![sbe](../images/software/sbe_card.png)](http://github.com/kondoumh/sbe)
+<iframe class="hatenablogcard" style="width:100%;height:155px;max-width:600px;" title="kondoumh/sbe" src="https://hatenablog-parts.com/embed?url=https://github.com/kondoumh/sbe" width="300" height="150" frameborder="0" scrolling="no"></iframe>
 
 ## Twitter client by Electron (mtwe)
 Electron webview で動作する Twitter クライアント。タイムラインの自動リフレッシュが可能です。。
 
-[![mtwe](../images/software/mtwe_card.png)](https://github.com/kondoumh/mtwe)
+[Blog](https://blog.kondoumh.com/archive/category/mtwe)
+
+<iframe class="hatenablogcard" style="width:100%;height:155px;max-width:600px;" title="kondoumh/mtwe" src="https://hatenablog-parts.com/embed?url=https://github.com/kondoumh/mtwe" width="300" height="150" frameborder="0" scrolling="no"></iframe>
 
 ## changelog-support (Visual Studio Code Extention)
 ChangeLog メモ書きをサポートする VS Code 拡張です。
