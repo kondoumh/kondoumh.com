@@ -6,6 +6,8 @@ on:
       - content/**
       - layout/**
       - config.toml
+    branches:
+      - master
 
 jobs:
   build:
