@@ -27,6 +27,8 @@ ChangeLog メモ書きをサポートする VS Code 拡張です。
 
 <iframe class="hatenablogcard" style="width:100%;height:155px;max-width:600px;" title="changelog-support" src="https://hatenablog-parts.com/embed?url=https://marketplace.visualstudio.com/items?itemName=kondoumh.changelog-support" width="300" height="150" frameborder="0" scrolling="no"></iframe>
 
+<iframe class="hatenablogcard" style="width:100%;height:155px;max-width:600px;" title="changelog-support" src="https://hatenablog-parts.com/embed?url=https://github.com/kondoumh/changelog-support" width="300" height="150" frameborder="0" scrolling="no"></iframe>
+
 -----------
 
 ## 昔作ったもの
