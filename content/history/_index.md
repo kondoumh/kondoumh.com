@@ -5,7 +5,7 @@ description: "site history"
 draft: false
 ---
 
-| date | content |
+| Date | Content |
 |:-----|:-------|
 | 2022.03.12 | [Profile](../profile/) 更新 |
 | 2020.04.05 | [Netlify にホームページのプレビューサイトを設置](https://blog.kondoumh.com/entry/2020/04/05/183903) |
