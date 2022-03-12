@@ -1,6 +1,6 @@
 ---
 title: "Profile"
-date: 2019-07-27T22:53:31+09:00
+date: 2022-03-12T12:55:31+09:00
 description: "kondoumh profile"
 draft: false
 ---
