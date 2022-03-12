@@ -1,6 +1,6 @@
 ---
 title: "Home"
-date: 2019-07-24T23:57:49+09:00
+date: 2022-03-12T12:56:49+09:00
 description: "kondoumh home"
 draft: false
 ---
@@ -10,7 +10,6 @@ draft: false
 - [アイデアプロセッサー iEdit](/software/iedit/)
 - [その他ソフトウェア](software/)
 
-## Updated
-
-- [サイトリニューアル (2019.8.3)](https://blog.kondoumh.com/entry/2019/08/04/220044)
-- [iEdit 2.40 リリース (2018.9.16)](https://blog.kondoumh.com/entry/2018/09/16/013101)
+## Other sites
+- [kondoumh のブログ](https://blog.kondoumh.com)
+- [豆蔵デベロッパーサイト](https://developer.mamezou-tech.com)

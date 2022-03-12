@@ -1,12 +1,13 @@
 ---
 title: "History"
-date: 2019-07-27T22:58:31+09:00
+date: 2022-03-12T12:55:31+09:00
 description: "site history"
 draft: false
 ---
 
-| date | content |
+| Date | Content |
 |:-----|:-------|
+| 2022.03.12 | [Profile](../profile/) 更新 |
 | 2020.04.05 | [Netlify にホームページのプレビューサイトを設置](https://blog.kondoumh.com/entry/2020/04/05/183903) |
 | 2019.09.14 | [公開を GitHub Ations で自動化](https://blog.kondoumh.com/entry/2019/09/14/231731) |
 | 2019.08.03 | [サイトリニューアル (Hugo に移行)](https://blog.kondoumh.com/entry/2019/08/04/220044) |
