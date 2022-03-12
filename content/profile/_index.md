@@ -5,24 +5,21 @@ description: "kondoumh profile"
 draft: false
 ---
 
-![](/images/mh.png)
-
-kondoumh (MH) : Software Engineer
-
-born in Kyoto City 1968, living in Tokyo.
-
-エンタープライズシステムのアーキテクチャ構築・フレームワーク開発をやっています。
+<img src="/images/mh.png" style="width:120px">
+kondoumh (MH) : Software Engineer エンタープライズシステムのアーキテクチャ構築・フレームワーク開発をやっています。
 
 ## Web Activities
-
+2021年12月に開設した会社のテックサイト
+<iframe class="hatenablogcard" style="width:100%;height:155px;max-width:600px;" title="blog" src="https://hatenablog-parts.com/embed?url=https://developer.mamezou-tech.com/" width="300" height="150" frameborder="0" scrolling="no"></iframe>
+個人ブログ
 <iframe class="hatenablogcard" style="width:100%;height:155px;max-width:600px;" title="blog" src="https://hatenablog-parts.com/embed?url=https://blog.kondoumh.com" width="300" height="150" frameborder="0" scrolling="no"></iframe>
-
-<iframe class="hatenablogcard" style="width:100%;height:155px;max-width:600px;" title="Twitter" src="https://hatenablog-parts.com/embed?url=https://twitter.com/kondoumh" width="300" height="150" frameborder="0" scrolling="no"></iframe>
-
+GitHub
 <iframe class="hatenablogcard" style="width:100%;height:155px;max-width:600px;" title="GitHub" src="https://hatenablog-parts.com/embed?url=https://github.com/kondoumh" width="300" height="150" frameborder="0" scrolling="no"></iframe>
-
+Twitter
+<iframe class="hatenablogcard" style="width:100%;height:155px;max-width:600px;" title="Twitter" src="https://hatenablog-parts.com/embed?url=https://twitter.com/kondoumh" width="300" height="150" frameborder="0" scrolling="no"></iframe>
+Scrapbox
 <iframe class="hatenablogcard" style="width:100%;height:155px;max-width:600px;" title="kondoumh - Scrapbox" src="https://hatenablog-parts.com/embed?url=https://scrapbox.io/kondoumh" width="300" height="150" frameborder="0" scrolling="no"></iframe>
-
+Tumblr
 <iframe class="hatenablogcard" style="width:100%;height:155px;max-width:600px;" title="Tumblr" src="https://hatenablog-parts.com/embed?url=https://reblog.kondoumh.com/" width="300" height="150" frameborder="0" scrolling="no"></iframe>
 
 ## Web media
@@ -48,8 +45,6 @@ born in Kyoto City 1968, living in Tokyo.
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=kondoumh-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=4774155675&linkId=c4d2f945007acae211cf84cb40b27296&bc1=000000&lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"></iframe>
 
-ブログにも [ITS 関連の記事](https://blog.kondoumh.com/archive/category/ITS)を投稿しています。
-
 ## その他
 
 ### 豆蔵技術情報
@@ -58,10 +53,6 @@ born in Kyoto City 1968, living in Tokyo.
 - [ツール利活用とシステム開発地図　第1回 - 業務システムのライフサイクル管理におけるツール利活用（１）](https://www.mamezou.com/techinfo/language_implementation/sysmap_se2_001)
 - [システム開発地図 第2回 - 関係者の役割をマッピング](https://www.mamezou.com/techinfo/modeling_ddd/sp_015_002-0)
 - [システム開発地図 第1回 - エコな開発を](https://www.mamezou.com/techinfo/modeling_ddd/sp_015_001)
-
-### 豆蔵ソフト工学ラボ
-- [業務アプリ開発者・情シス部員のためのBI入門](http://labo.mamezou.com/special/sp_012/)
-- [プロジェクト管理ツール"Trac"入門](http://labo.mamezou.com/special/sp_010/sp_010_001.html)
 
 ### 旧 ホームページのアーカイブ</h4>
 - [WinTab でタブレットプログラミング](/pgtips/wintab.html)
