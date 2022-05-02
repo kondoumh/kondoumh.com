@@ -7,6 +7,7 @@ draft: false
 
 | Date | Content |
 |:-----|:-------|
+| 2022.04.29 | [Google Analytics 4 に移行](https://blog.kondoumh.com/entry/2022/04/29/232603) |
 | 2022.03.12 | [Profile](../profile/) 更新 |
 | 2020.04.05 | [Netlify にホームページのプレビューサイトを設置](https://blog.kondoumh.com/entry/2020/04/05/183903) |
 | 2019.09.14 | [公開を GitHub Ations で自動化](https://blog.kondoumh.com/entry/2019/09/14/231731) |
