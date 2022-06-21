@@ -9,8 +9,8 @@ draft: false
 kondoumh (MH) : Software Engineer エンタープライズシステムのアーキテクチャ構築・フレームワーク開発をやっています。
 
 ## Web Activities
-2021年12月に開設した会社のテックサイト
-<iframe class="hatenablogcard" style="width:100%;height:155px;max-width:600px;" title="blog" src="https://hatenablog-parts.com/embed?url=https://developer.mamezou-tech.com/" width="300" height="150" frameborder="0" scrolling="no"></iframe>
+会社のテックサイトへの投稿
+<iframe class="hatenablogcard" style="width:100%;height:155px;max-width:600px;" title="mamezou-tech" src="https://hatenablog-parts.com/embed?url=https://developer.mamezou-tech.com/authors/masahiro-kondo/" width="300" height="150" frameborder="0" scrolling="no"></iframe>
 個人ブログ
 <iframe class="hatenablogcard" style="width:100%;height:155px;max-width:600px;" title="blog" src="https://hatenablog-parts.com/embed?url=https://blog.kondoumh.com" width="300" height="150" frameborder="0" scrolling="no"></iframe>
 GitHub

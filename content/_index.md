@@ -12,4 +12,4 @@ draft: false
 
 ## Other sites
 - [kondoumh のブログ](https://blog.kondoumh.com)
-- [豆蔵デベロッパーサイト](https://developer.mamezou-tech.com)
+- [masahiro-kondo の記事 | 豆蔵デベロッパーサイト](https://developer.mamezou-tech.com/authors/masahiro-kondo/)
