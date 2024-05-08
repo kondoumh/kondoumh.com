@@ -10,18 +10,18 @@ Windows 専用のアイデアプロセッサー
 <iframe class="hatenablogcard" style="width:100%;height:155px;max-width:600px;" title="kondoumh/iEdit" src="https://hatenablog-parts.com/embed?url=https://kondoumh.com/software/iedit/" width="300" height="150" frameborder="0" scrolling="no"></iframe>
 
 ## Scrapbox in Electron (sbe)
-[Scrapbox](https://scrapbox.io) の非公式デスクトップアプリ。[Blog](https://blog.kondoumh.com/archive/category/sbe)
+[Scrapbox](https://scrapbox.io) の非公式デスクトップアプリ。[Blog](https://kondoumh.hatenablog.com/archive/category/sbe)
 <iframe class="hatenablogcard" style="width:100%;height:155px;max-width:600px;" title="kondoumh/sbe" src="https://hatenablog-parts.com/embed?url=https://github.com/kondoumh/sbe" width="300" height="150" frameborder="0" scrolling="no"></iframe>
 
 ## sb2md
-Scrapbox のページを Markdown に変換する CLI。[Blog](https://blog.kondoumh.com/entry/2020/05/03/110540)
+Scrapbox のページを Markdown に変換する CLI。[Blog](https://kondoumh.hatenablog.com/entry/2020/05/03/110540)
 <iframe class="hatenablogcard" style="width:100%;height:155px;max-width:600px;" title="kondoumh/sb2md" src="https://hatenablog-parts.com/embed?url=https://github.com/kondoumh/sb2md" width="300" height="150" frameborder="0" scrolling="no"></iframe>
 
 ## sbgraph
-Scrapbox プロジェクトのグラフ構造可視化のためのデータを生成する CLI。Graphviz dot 形式と独自 JSON 形式で出力可能。[Blog](https://blog.kondoumh.com/entry/2020/04/16/195134)
+Scrapbox プロジェクトのグラフ構造可視化のためのデータを生成する CLI。Graphviz dot 形式と独自 JSON 形式で出力可能。[Blog](https://kondoumh.hatenablog.com/entry/2020/04/16/195134)
 <iframe class="hatenablogcard" style="width:100%;height:155px;max-width:600px;" title="mamezou-tech/sbgraph" src="https://hatenablog-parts.com/embed?url=https://github.com/mamezou-tech/sbgraph" width="300" height="150" frameborder="0" scrolling="no"></iframe>
 
-[D3.js](https://d3js.org/) による可視化サンプル [Scrapbox viz](https://sb-data-kondoumh.netlify.app/)。[Blog1](https://blog.kondoumh.com/entry/2020/06/10/234303)、[Blog2](https://blog.kondoumh.com/entry/2020/12/20/224034)
+[D3.js](https://d3js.org/) による可視化サンプル [Scrapbox viz](https://sb-data-kondoumh.netlify.app/)。[Blog1](https://kondoumh.hatenablog.com/entry/2020/06/10/234303)、[Blog2](https://kondoumh.hatenablog.com/entry/2020/12/20/224034)
 
 ## setup-helmfile
 GitHub Actions ワークフローで [helmfile](https://github.com/roboll/helmfile) をインストールするための Action

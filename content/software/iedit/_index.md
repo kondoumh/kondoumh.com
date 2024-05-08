@@ -11,7 +11,7 @@ draft: false
 - [Download](/software/iedit/download/)
 - [Document](https://iedit.kondoumh.com)
 - [Release notes](https://iedit.kondoumh.com/releasenotes/)
-- [Blog](https://blog.kondoumh.com/archive/category/iEdit)
+- [Blog](https://kondoumh.hatenablog.com/archive/category/iEdit)
 - [Tools](/software/iedit/tools/)
 
 ## iEdit とは

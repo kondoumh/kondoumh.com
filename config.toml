@@ -29,7 +29,7 @@ disableKinds = ["RSS"]
   gitlab = ""
   linkedin = ""
   mastodon = ""
-  hatenablog = "https://blog.kondoumh.com"
+  hatenablog = "https://kondoumh.hatenablog.com"
   tumblr = "https://reblog.kondoumh.com"
   scrapbox = "https://scrapbox.io/kondoumh"
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"

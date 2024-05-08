@@ -12,7 +12,7 @@ kondoumh (MH) : Software Engineer エンタープライズシステムのアー�
 会社のテックサイトへの投稿
 <iframe class="hatenablogcard" style="width:100%;height:155px;max-width:600px;" title="mamezou-tech" src="https://hatenablog-parts.com/embed?url=https://developer.mamezou-tech.com/authors/masahiro-kondo/" width="300" height="150" frameborder="0" scrolling="no"></iframe>
 個人ブログ
-<iframe class="hatenablogcard" style="width:100%;height:155px;max-width:600px;" title="blog" src="https://hatenablog-parts.com/embed?url=https://blog.kondoumh.com" width="300" height="150" frameborder="0" scrolling="no"></iframe>
+<iframe class="hatenablogcard" style="width:100%;height:155px;max-width:600px;" title="blog" src="https://hatenablog-parts.com/embed?url=https://kondoumh.hatenablog.com" width="300" height="150" frameborder="0" scrolling="no"></iframe>
 GitHub
 <iframe class="hatenablogcard" style="width:100%;height:155px;max-width:600px;" title="GitHub" src="https://hatenablog-parts.com/embed?url=https://github.com/kondoumh" width="300" height="150" frameborder="0" scrolling="no"></iframe>
 Twitter

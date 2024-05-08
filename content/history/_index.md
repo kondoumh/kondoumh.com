@@ -8,22 +8,22 @@ draft: false
 | Date | Content |
 |:-----|:-------|
 | 2022.06.18 | [Profile](../profile/)、[Software](../software/) 更新 |
-| 2022.04.29 | [Google Analytics 4 に移行](https://blog.kondoumh.com/entry/2022/04/29/232603) |
+| 2022.04.29 | [Google Analytics 4 に移行](https://kondoumh.hatenablog.com/entry/2022/04/29/232603) |
 | 2022.03.12 | [Profile](../profile/) 更新 |
-| 2020.04.05 | [Netlify にホームページのプレビューサイトを設置](https://blog.kondoumh.com/entry/2020/04/05/183903) |
-| 2019.09.14 | [公開を GitHub Ations で自動化](https://blog.kondoumh.com/entry/2019/09/14/231731) |
-| 2019.08.03 | [サイトリニューアル (Hugo に移行)](https://blog.kondoumh.com/entry/2019/08/04/220044) |
+| 2020.04.05 | [Netlify にホームページのプレビューサイトを設置](https://kondoumh.hatenablog.com/entry/2020/04/05/183903) |
+| 2019.09.14 | [公開を GitHub Ations で自動化](https://kondoumh.hatenablog.com/entry/2019/09/14/231731) |
+| 2019.08.03 | [サイトリニューアル (Hugo に移行)](https://kondoumh.hatenablog.com/entry/2019/08/04/220044) |
 | 2018.09.16 | iEdit 2.40 公開 |
-| 2018.08.26 | [iEdit ユーザーズマニュアルを GitBook でリニューアル](https://blog.kondoumh.com/entry/2018/08/26/132548) |
-| 2018.07.22 | [Static site generator 導入のためサイト構造見直し](https://blog.kondoumh.com/entry/2018/07/22/211302) |
-| 2018.02.17 | [HTTPS 対応](https://blog.kondoumh.com/entry/2018/02/17/182908) |
+| 2018.08.26 | [iEdit ユーザーズマニュアルを GitBook でリニューアル](https://kondoumh.hatenablog.com/entry/2018/08/26/132548) |
+| 2018.07.22 | [Static site generator 導入のためサイト構造見直し](https://kondoumh.hatenablog.com/entry/2018/07/22/211302) |
+| 2018.02.17 | [HTTPS 対応](https://kondoumh.hatenablog.com/entry/2018/02/17/182908) |
 | 2018.02.14 | iEdit 2.30 公開 |
-| 2015.12.30 | [サイトリニューアル (Material Design 風)](https://blog.kondoumh.com/entry/2015/12/31/232400) |
+| 2015.12.30 | [サイトリニューアル (Material Design 風)](https://kondoumh.hatenablog.com/entry/2015/12/31/232400) |
 | 2015.01.25 | iEdit 2.21 公開 |
 | 2014.12.30 | スマートデバイス対応 |
 | 2014.11.15 | iEdit 2.20 公開 |
 | 2014.08.24 | iEdit 2.12 公開 |
-| 2014.04.04 | [はてなダイアリーからはてなブログへの移行に伴いリンク修正](https://blog.kondoumh.com/entry/2014/03/29/182024) |
+| 2014.04.04 | [はてなダイアリーからはてなブログへの移行に伴いリンク修正](https://kondoumh.hatenablog.com/entry/2014/03/29/182024) |
 | 2013.10.13 | iEdit ページからサイドバーを除去 |
 | 2013.08.18 | iEdit 2.11 公開 |
 | 2013.04.25 | iEdit 2.10 / 2.01 公開 |
@@ -33,7 +33,7 @@ draft: false
 | 2013.01.06 | Silverlight 終了に伴い iEdit for Silverlight ページ修正 |
 | 2012.10.01 | iEdit 2.00 公開 |
 | 2012.06.13 | iEdit 1.99 公開 |
-| 2012.02.25 | [@nifty から kondoumh.com ドメインに移転](https://blog.kondoumh.com/entry/20120225/p1) |
+| 2012.02.25 | [@nifty から kondoumh.com ドメインに移転](https://kondoumh.hatenablog.com/entry/20120225/p1) |
 | 2011.06.19 | iEdit 1.98 公開 |
 | 2011.01.04 | iEdit 1.97 公開 |
 | 2010.11.10 | iEdit 1.96 公開 |
@@ -45,17 +45,17 @@ draft: false
 | 2009.02.26 | iEdit 1.82 公開 |
 | 2009.02.19 | iEdit 1.81 公開 |
 | 2009.02.11 | iEdit 1.80 公開 |
-| 2009.01.19 | [iEdit for Silverlight ページ追加](https://blog.kondoumh.com/entry/20090118/p1) |
+| 2009.01.19 | [iEdit for Silverlight ページ追加](https://kondoumh.hatenablog.com/entry/20090118/p1) |
 | 2009.01.13 | 「Trac入門」増刷告知 |
-| 2008.11.03 | [Tools Blog (Blogger) のリンクをヘッダーに追加](https://blog.kondoumh.com/entry/20081102/p1) |
+| 2008.11.03 | [Tools Blog (Blogger) のリンクをヘッダーに追加](https://kondoumh.hatenablog.com/entry/20081102/p1) |
 | 2008.08.27 | 「Trac入門」の PR を掲載 |
 | 2007.11.27 | iEdit 1.70 公開 |
 | 2007.10.20 | トップページと iEdit ページにはてブカウンタを設置 |
 | 2007.10.01 | トップページの訪問数 120,000 超え。旧サイトからの累計 250,000 以上 |
 | 2006.11.19 | ページ更新通知を WWWC から RSS に移行 |
-| 2006.11.17 | [iEdit アーリーアクセス版公開を開始](https://blog.kondoumh.com/entry/20061117/p1) |
+| 2006.11.17 | [iEdit アーリーアクセス版公開を開始](https://kondoumh.hatenablog.com/entry/20061117/p1) |
 | 2006.09.24 | iEdit 1.60 公開 |
-| 2006.08.09 | [3D Plot 1.1 公開](https://blog.kondoumh.com/entry/20060809/p1) |
+| 2006.08.09 | [3D Plot 1.1 公開](https://kondoumh.hatenablog.com/entry/20060809/p1) |
 | 2006.07.13 | iEdit 関連ツールでアルバトロスさん作シェイプファイルを紹介 |
 | 2006.05.06 | iEdit 1.52 公開 |
 | 2006.04.28 | iEdit 1.51 公開 |

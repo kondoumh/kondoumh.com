@@ -11,5 +11,5 @@ draft: false
 - [その他ソフトウェア](software/)
 
 ## Other sites
-- [kondoumh のブログ](https://blog.kondoumh.com)
+- [kondoumh のブログ](https://kondoumh.hatenablog.com)
 - [masahiro-kondo の記事 | 豆蔵デベロッパーサイト](https://developer.mamezou-tech.com/authors/masahiro-kondo/)
