@@ -41,11 +41,11 @@ Tumblr
 ## Book
 
 ### Trac 入門
-同僚と共同執筆した Trac 入門 改訂版です。Trac に限らず Redmine など他の ITS を使う場合でも役立つ内容になっていると思います。
+すっかり昔になってしまいましたが、同僚と共同執筆した Trac 入門 改訂版です。Trac に限らず Redmine など他の ITS を使う場合でも役立つ内容になっていると思います。
 
-{{< figure src="https://m.media-amazon.com/images/I/51nsrw5fLhL._SY385_.jpg" class="amazon" width="350" >}}
+<iframe class="hatenablogcard" style="width:100%;height:155px;max-width:600px;" title="Trac入門" src="https://hatenablog-parts.com/embed?url=https://www.amazon.co.jp/dp/4774155675" width="300" height="150" frameborder="0" scrolling="no"></iframe>
 
-<a href="https://amzn.to/4dnDrPE">〔改訂〕Trac入門 ~ソフトウェア開発・プロジェクト管理活用ガイド (Software Design plus)</a>
+[〔改訂〕Trac入門 ~ソフトウェア開発・プロジェクト管理活用ガイド (Software Design plus)](https://amzn.to/4dnDrPE)
 
 ## その他
 
