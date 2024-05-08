@@ -43,8 +43,8 @@ Tumblr
 ### Trac 入門
 同僚と共同執筆した Trac 入門 改訂版です。Trac に限らず Redmine など他の ITS を使う場合でも役立つ内容になっていると思います。
 
-
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=kondoumh-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=4774155675&linkId=c4d2f945007acae211cf84cb40b27296&bc1=000000&lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"></iframe>
+<a href="https://amzn.to/4dnDrPE"><img src="https://m.media-amazon.com/images/I/51nsrw5fLhL._SY385_.jpg" alt="Trac入門"></a><br>
+<a href="https://amzn.to/4dnDrPE">〔改訂〕Trac入門 ~ソフトウェア開発・プロジェクト管理活用ガイド (Software Design plus)</a>
 
 ## その他
 
