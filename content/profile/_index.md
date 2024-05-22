@@ -23,6 +23,8 @@ Tumblr
 <iframe class="hatenablogcard" style="width:100%;height:155px;max-width:600px;" title="Tumblr" src="https://hatenablog-parts.com/embed?url=https://reblog.kondoumh.com/" width="300" height="150" frameborder="0" scrolling="no"></iframe>
 
 ## Magazine
+- [Software Design 2024年6月号](https://gihyo.jp/magazine/SD/archive/2024/202406) : 第2特集 ［実証］Bun
+次世代JavaScriptランタイムの実体に迫る (第2章)
 - [Software Design 2022年7月号](https://gihyo.jp/magazine/SD/archive/2022/202207) : 第2特集 ソフトウェア開発のシン常識
 - [日経SYSTEMS 2018年2月号](http://ec.nikkeibp.co.jp/item/backno/OS0298.html) : すごい設計書
 - [Software Design 2015年7月号](http://gihyo.jp/magazine/SD/archive/2015/201507) : スペシャリストになる方法
